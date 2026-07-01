@@ -1,0 +1,3412 @@
+[
+  {
+    "index": 1,
+    "correctTextBamf": "hier Meinungsfreiheit gilt.",
+    "allOptionsBamf": [
+      "hier Religionsfreiheit gilt.",
+      "die Menschen Steuern zahlen.",
+      "die Menschen das Wahlrecht haben.",
+      "hier Meinungsfreiheit gilt."
+    ],
+    "portalAufgabe": 1
+  },
+  {
+    "index": 2,
+    "correctTextBamf": "Religionsunterricht teilnimmt.",
+    "allOptionsBamf": [
+      "Geschichtsunterricht teilnimmt.",
+      "Religionsunterricht teilnimmt.",
+      "Politikunterricht teilnimmt.",
+      "Sprachunterricht teilnimmt."
+    ],
+    "portalAufgabe": 2
+  },
+  {
+    "index": 3,
+    "correctTextBamf": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+    "allOptionsBamf": [
+      "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+      "Der Staat muss sich nicht an die Gesetze halten.",
+      "Nur Deutsche müssen die Gesetze befolgen.",
+      "Die Gerichte machen die Gesetze."
+    ],
+    "portalAufgabe": 3
+  },
+  {
+    "index": 4,
+    "correctTextBamf": "Meinungsfreiheit",
+    "allOptionsBamf": [
+      "Waffenbesitz",
+      "Faustrecht",
+      "Meinungsfreiheit",
+      "Selbstjustiz"
+    ],
+    "portalAufgabe": 4
+  },
+  {
+    "index": 5,
+    "correctTextBamf": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+    "allOptionsBamf": [
+      "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten / eine bestimmte Kandidatin wählt.",
+      "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+      "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+      "Alle wahlberechtigten Personen müssen wählen."
+    ],
+    "portalAufgabe": 5
+  },
+  {
+    "index": 6,
+    "correctTextBamf": "Grundgesetz",
+    "allOptionsBamf": [
+      "Volksgesetz",
+      "Bundesgesetz",
+      "Deutsches Gesetz",
+      "Grundgesetz"
+    ],
+    "portalAufgabe": 6
+  },
+  {
+    "index": 7,
+    "correctTextBamf": "Glaubens- und Gewissensfreiheit.",
+    "allOptionsBamf": [
+      "Glaubens- und Gewissensfreiheit.",
+      "Unterhaltung.",
+      "Arbeit.",
+      "Wohnung."
+    ],
+    "portalAufgabe": 7
+  },
+  {
+    "index": 8,
+    "correctTextBamf": "Alle sollen gleich viel Geld haben.",
+    "allOptionsBamf": [
+      "Die Würde des Menschen ist unantastbar.",
+      "Alle sollen gleich viel Geld haben.",
+      "Jeder Mensch darf seine Meinung sagen.",
+      "Alle sind vor dem Gesetz gleich."
+    ],
+    "portalAufgabe": 8
+  },
+  {
+    "index": 9,
+    "correctTextBamf": "Asyl",
+    "allOptionsBamf": [
+      "Schutz der Familie",
+      "Menschenwürde",
+      "Asyl",
+      "Meinungsfreiheit"
+    ],
+    "portalAufgabe": 9
+  },
+  {
+    "index": 10,
+    "correctTextBamf": "die Geldstrafe",
+    "allOptionsBamf": [
+      "die Prügelstrafe",
+      "die Folter",
+      "die Todesstrafe",
+      "die Geldstrafe"
+    ],
+    "portalAufgabe": 10
+  },
+  {
+    "index": 11,
+    "correctTextBamf": "Grundgesetz",
+    "allOptionsBamf": [
+      "Grundgesetz",
+      "Bundesverfassung",
+      "Gesetzbuch",
+      "Verfassungsvertrag"
+    ],
+    "portalAufgabe": 11
+  },
+  {
+    "index": 12,
+    "correctTextBamf": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+    "allOptionsBamf": [
+      "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+      "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+      "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+      "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
+    ],
+    "portalAufgabe": 12
+  },
+  {
+    "index": 13,
+    "correctTextBamf": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
+    "allOptionsBamf": [
+      "die regierenden Parteien.",
+      "die Fraktion mit den meisten Abgeordneten.",
+      "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+      "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
+    ],
+    "portalAufgabe": 13
+  },
+  {
+    "index": 14,
+    "correctTextBamf": "meine Meinung im Internet äußern kann",
+    "allOptionsBamf": [
+      "Passanten auf der Straße beschimpfen darf",
+      "meine Meinung im Internet äußern kann",
+      "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf",
+      "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche"
+    ],
+    "portalAufgabe": 14
+  },
+  {
+    "index": 15,
+    "correctTextBamf": "Zwangsarbeit",
+    "allOptionsBamf": [
+      "Militärdienst",
+      "Zwangsarbeit",
+      "freie Berufswahl",
+      "Arbeit im Ausland"
+    ],
+    "portalAufgabe": 15
+  },
+  {
+    "index": 16,
+    "correctTextBamf": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+    "allOptionsBamf": [
+      "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+      "bei Meinungsäußerungen über die Bundesregierung",
+      "bei Diskussionen über Religionen",
+      "bei Kritik am Staat"
+    ],
+    "portalAufgabe": 16
+  },
+  {
+    "index": 17,
+    "correctTextBamf": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
+    "allOptionsBamf": [
+      "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
+      "Petitionen der Bürger und Bürgerinnen.",
+      "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+      "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat."
+    ],
+    "portalAufgabe": 17
+  },
+  {
+    "index": 18,
+    "correctTextBamf": "die Unantastbarkeit der Menschenwürde",
+    "allOptionsBamf": [
+      "die Unantastbarkeit der Menschenwürde",
+      "das Recht auf Leben",
+      "Religionsfreiheit",
+      "Meinungsfreiheit"
+    ],
+    "portalAufgabe": 18
+  },
+  {
+    "index": 19,
+    "correctTextBamf": "Man darf sich seinen Wohnort selbst aussuchen.",
+    "allOptionsBamf": [
+      "Man darf sich seinen Wohnort selbst aussuchen.",
+      "Man kann seinen Beruf wechseln.",
+      "Man darf sich für eine andere Religion entscheiden.",
+      "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+    ],
+    "portalAufgabe": 19
+  },
+  {
+    "index": 20,
+    "correctTextBamf": "verfassungswidrig.",
+    "allOptionsBamf": [
+      "tolerant.",
+      "rechtsstaatlich orientiert.",
+      "gesetzestreu.",
+      "verfassungswidrig."
+    ],
+    "portalAufgabe": 20
+  },
+  {
+    "index": 21,
+    "correctTextBamf": "1",
+    "allOptionsBamf": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "portalAufgabe": 21
+  },
+  {
+    "index": 22,
+    "correctTextBamf": "Republik",
+    "allOptionsBamf": [
+      "Monarchie",
+      "Diktatur",
+      "Republik",
+      "Fürstentum"
+    ],
+    "portalAufgabe": 22
+  },
+  {
+    "index": 23,
+    "correctTextBamf": "bei einer Firma oder Behörde beschäftigt.",
+    "allOptionsBamf": [
+      "in kleinen Familienunternehmen beschäftigt.",
+      "ehrenamtlich für ein Bundesland tätig.",
+      "selbständig mit einer eigenen Firma tätig.",
+      "bei einer Firma oder Behörde beschäftigt."
+    ],
+    "portalAufgabe": 23
+  },
+  {
+    "index": 24,
+    "correctTextBamf": "16",
+    "allOptionsBamf": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "portalAufgabe": 24
+  },
+  {
+    "index": 25,
+    "correctTextBamf": "Elsass-Lothringen",
+    "allOptionsBamf": [
+      "Elsass-Lothringen",
+      "Nordrhein-Westfalen",
+      "Mecklenburg-Vorpommern",
+      "Sachsen-Anhalt"
+    ],
+    "portalAufgabe": 25
+  },
+  {
+    "index": 26,
+    "correctTextBamf": "ein demokratischer und sozialer Bundesstaat.",
+    "allOptionsBamf": [
+      "eine kommunistische Republik.",
+      "ein demokratischer und sozialer Bundesstaat.",
+      "eine kapitalistische und soziale Monarchie.",
+      "ein sozialer und sozialistischer Bundesstaat."
+    ],
+    "portalAufgabe": 26
+  },
+  {
+    "index": 27,
+    "correctTextBamf": "ein Bundesstaat.",
+    "allOptionsBamf": [
+      "ein sozialistischer Staat.",
+      "ein Bundesstaat.",
+      "eine Diktatur.",
+      "eine Monarchie."
+    ],
+    "portalAufgabe": 27
+  },
+  {
+    "index": 28,
+    "correctTextBamf": "das wahlberechtigte Volk",
+    "allOptionsBamf": [
+      "das Militär",
+      "die Wirtschaft",
+      "das wahlberechtigte Volk",
+      "die Verwaltung"
+    ],
+    "portalAufgabe": 28
+  },
+  {
+    "index": 29,
+    "correctTextBamf": "Adler",
+    "allOptionsBamf": [
+      "Löwe",
+      "Adler",
+      "Bär",
+      "Pferd"
+    ],
+    "portalAufgabe": 29
+  },
+  {
+    "index": 30,
+    "correctTextBamf": "Pressezensur",
+    "allOptionsBamf": [
+      "regelmäßige Wahlen",
+      "Pressezensur",
+      "Meinungsfreiheit",
+      "verschiedene Parteien"
+    ],
+    "portalAufgabe": 30
+  },
+  {
+    "index": 31,
+    "correctTextBamf": "Koalition.",
+    "allOptionsBamf": [
+      "Einheit.",
+      "Koalition.",
+      "Ministerium.",
+      "Fraktion."
+    ],
+    "portalAufgabe": 31
+  },
+  {
+    "index": 32,
+    "correctTextBamf": "Presse",
+    "allOptionsBamf": [
+      "Gesetzgebung",
+      "Regierung",
+      "Presse",
+      "Rechtsprechung"
+    ],
+    "portalAufgabe": 32
+  },
+  {
+    "index": 33,
+    "correctTextBamf": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+    "allOptionsBamf": [
+      "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+      "bilden die Religionsgemeinschaften den Staat.",
+      "ist der Staat abhängig von den Religionsgemeinschaften.",
+      "bilden Staat und Religionsgemeinschaften eine Einheit."
+    ],
+    "portalAufgabe": 33
+  },
+  {
+    "index": 34,
+    "correctTextBamf": "eine Monarchie",
+    "allOptionsBamf": [
+      "eine Demokratie",
+      "ein Rechtsstaat",
+      "eine Monarchie",
+      "ein Sozialstaat"
+    ],
+    "portalAufgabe": 34
+  },
+  {
+    "index": 35,
+    "correctTextBamf": "Sozialabgaben",
+    "allOptionsBamf": [
+      "Kirchensteuern",
+      "Sozialabgaben",
+      "Spendengeldern",
+      "Vereinsbeiträgen"
+    ],
+    "portalAufgabe": 35
+  },
+  {
+    "index": 36,
+    "correctTextBamf": "die Krankenversicherung",
+    "allOptionsBamf": [
+      "die Krankenversicherung",
+      "die Autoversicherung",
+      "die Gebäudeversicherung",
+      "die Haftpflichtversicherung"
+    ],
+    "portalAufgabe": 36
+  },
+  {
+    "index": 37,
+    "correctTextBamf": "Ministerpräsident/ Ministerpräsidentin",
+    "allOptionsBamf": [
+      "Erster Minister/ Erste Ministerin",
+      "Premierminister/ Premierministerin",
+      "Senator/ Senatorin",
+      "Ministerpräsident/ Ministerpräsidentin"
+    ],
+    "portalAufgabe": 37
+  },
+  {
+    "index": 38,
+    "correctTextBamf": "Bundesstaat.",
+    "allOptionsBamf": [
+      "Staatenverbund.",
+      "Bundesstaat.",
+      "Staatenbund.",
+      "Zentralstaat."
+    ],
+    "portalAufgabe": 38
+  },
+  {
+    "index": 39,
+    "correctTextBamf": "eine eigene Regierung",
+    "allOptionsBamf": [
+      "einen eigenen Außenminister / eine eigene Außenministerin",
+      "eine eigene Währung",
+      "eine eigene Armee",
+      "eine eigene Regierung"
+    ],
+    "portalAufgabe": 39
+  },
+  {
+    "index": 40,
+    "correctTextBamf": "Einigkeit und Recht und Freiheit ...",
+    "allOptionsBamf": [
+      "Völker, hört die Signale ...",
+      "Einigkeit und Recht und Freiheit ...",
+      "Freude schöner Götterfunken ...",
+      "Deutschland einig Vaterland ..."
+    ],
+    "portalAufgabe": 40
+  },
+  {
+    "index": 41,
+    "correctTextBamf": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+    "allOptionsBamf": [
+      "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
+      "damit Bestechung in der Politik begrenzt wird",
+      "um politische Demonstrationen zu verhindern",
+      "um wirtschaftlichen Wettbewerb anzuregen"
+    ],
+    "portalAufgabe": 41
+  },
+  {
+    "index": 42,
+    "correctTextBamf": "das Parlament",
+    "allOptionsBamf": [
+      "die Regierung",
+      "das Parlament",
+      "die Gerichte",
+      "die Polizei"
+    ],
+    "portalAufgabe": 42
+  },
+  {
+    "index": 43,
+    "correctTextBamf": "wenn sie gegen die Verfassung kämpft",
+    "allOptionsBamf": [
+      "wenn ihr Wahlkampf zu teuer ist",
+      "wenn sie gegen die Verfassung kämpft",
+      "wenn sie Kritik am Staatsoberhaupt äußert",
+      "wenn ihr Programm eine neue Richtung vorschlägt"
+    ],
+    "portalAufgabe": 43
+  },
+  {
+    "index": 44,
+    "correctTextBamf": "den Bundespräsidenten / die Bundespräsidentin",
+    "allOptionsBamf": [
+      "Abgeordnete des EU-Parlaments",
+      "den Bundespräsidenten / die Bundespräsidentin",
+      "Landtagsabgeordnete",
+      "Bundestagsabgeordnete"
+    ],
+    "portalAufgabe": 44
+  },
+  {
+    "index": 45,
+    "correctTextBamf": "Sozialversicherung",
+    "allOptionsBamf": [
+      "Sozialversicherung",
+      "Unfallversicherung",
+      "Hausratversicherung",
+      "Haftpflicht- und Feuerversicherung"
+    ],
+    "portalAufgabe": 45
+  },
+  {
+    "index": 46,
+    "correctTextBamf": "Er baut Straßen und Schulen.",
+    "allOptionsBamf": [
+      "Er baut Straßen und Schulen.",
+      "Er verkauft Lebensmittel und Kleidung.",
+      "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+      "Er produziert Autos und Busse."
+    ],
+    "portalAufgabe": 46
+  },
+  {
+    "index": 47,
+    "correctTextBamf": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+    "allOptionsBamf": [
+      "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+      "Er zahlt Kindergeld.",
+      "Er unterstützt Museen.",
+      "Er fördert Sportler und Sportlerinnen."
+    ],
+    "portalAufgabe": 47
+  },
+  {
+    "index": 48,
+    "correctTextBamf": "die Bürgerversammlung",
+    "allOptionsBamf": [
+      "der Bundesrat",
+      "der Bundespräsident / die Bundespräsidentin",
+      "die Bürgerversammlung",
+      "die Regierung"
+    ],
+    "portalAufgabe": 48
+  },
+  {
+    "index": 49,
+    "correctTextBamf": "die Bundesländer",
+    "allOptionsBamf": [
+      "die Lehrer und Lehrerinnen",
+      "die Bundesländer",
+      "das Familienministerium",
+      "die Universitäten"
+    ],
+    "portalAufgabe": 49
+  },
+  {
+    "index": 50,
+    "correctTextBamf": "soziale Marktwirtschaft.",
+    "allOptionsBamf": [
+      "freie Zentralwirtschaft.",
+      "soziale Marktwirtschaft.",
+      "gelenkte Zentralwirtschaft.",
+      "Planwirtschaft."
+    ],
+    "portalAufgabe": 50
+  },
+  {
+    "index": 51,
+    "correctTextBamf": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+    "allOptionsBamf": [
+      "Menschen sich kritisch über die Regierung äußern können.",
+      "Bürger friedlich demonstrieren gehen dürfen.",
+      "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+      "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+    ],
+    "portalAufgabe": 51
+  },
+  {
+    "index": 52,
+    "correctTextBamf": "Volke aus.",
+    "allOptionsBamf": [
+      "Volke aus.",
+      "Bundestag aus.",
+      "preußischen König aus.",
+      "Bundesverfassungsgericht aus."
+    ],
+    "portalAufgabe": 52
+  },
+  {
+    "index": 53,
+    "correctTextBamf": "Der Staat muss die Gesetze einhalten.",
+    "allOptionsBamf": [
+      "Der Staat hat Recht.",
+      "Es gibt nur rechte Parteien.",
+      "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
+      "Der Staat muss die Gesetze einhalten."
+    ],
+    "portalAufgabe": 53
+  },
+  {
+    "index": 54,
+    "correctTextBamf": "Direktive",
+    "allOptionsBamf": [
+      "Legislative",
+      "Judikative",
+      "Exekutive",
+      "Direktive"
+    ],
+    "portalAufgabe": 54
+  },
+  {
+    "index": 55,
+    "correctTextBamf": "den Bundestagssitz in Berlin",
+    "allOptionsBamf": [
+      "den Bundestagssitz in Berlin",
+      "das Bundesverfassungsgericht in Karlsruhe",
+      "das Bundesratsgebäude in Berlin",
+      "das Bundeskanzleramt in Berlin"
+    ],
+    "portalAufgabe": 55
+  },
+  {
+    "index": 56,
+    "correctTextBamf": "Ordnungsamt",
+    "allOptionsBamf": [
+      "Pfarramt",
+      "Ordnungsamt",
+      "Finanzamt",
+      "Auswärtiges Amt"
+    ],
+    "portalAufgabe": 56
+  },
+  {
+    "index": 57,
+    "correctTextBamf": "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion",
+    "allOptionsBamf": [
+      "der / die älteste Abgeordnete im Parlament",
+      "der Ministerpräsident / die Ministerpräsidentin des größten Bundeslandes",
+      "ein ehemaliger Bundeskanzler / eine ehemalige Bundeskanzlerin",
+      "ein Abgeordneter / eine Abgeordnete der stärksten Fraktion"
+    ],
+    "portalAufgabe": 57
+  },
+  {
+    "index": 58,
+    "correctTextBamf": "der Bundespräsident / die Bundespräsidentin",
+    "allOptionsBamf": [
+      "der Präsident / die Präsidentin des Bundesverfassungsgerichtes",
+      "der Bundespräsident / die Bundespräsidentin",
+      "der Bundesratspräsident / die Bundesratspräsidentin",
+      "der Bundestagspräsident / die Bundestagspräsidentin"
+    ],
+    "portalAufgabe": 58
+  },
+  {
+    "index": 59,
+    "correctTextBamf": "vor etwa 1700 Jahren",
+    "allOptionsBamf": [
+      "vor etwa 300 Jahren",
+      "vor etwa 700 Jahren",
+      "vor etwa 1150 Jahren",
+      "vor etwa 1700 Jahren"
+    ],
+    "portalAufgabe": 59
+  },
+  {
+    "index": 60,
+    "correctTextBamf": "Legislative.",
+    "allOptionsBamf": [
+      "Exekutive.",
+      "Legislative.",
+      "Direktive.",
+      "Judikative."
+    ],
+    "portalAufgabe": 60
+  },
+  {
+    "index": 61,
+    "correctTextBamf": "Die Staatsgewalt geht vom Volke aus.",
+    "allOptionsBamf": [
+      "Der König / die Königin herrscht über das Volk.",
+      "Das Bundesverfassungsgericht steht über der Verfassung.",
+      "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+      "Die Staatsgewalt geht vom Volke aus."
+    ],
+    "portalAufgabe": 61
+  },
+  {
+    "index": 62,
+    "correctTextBamf": "Landtagswahl.",
+    "allOptionsBamf": [
+      "Kommunalwahl.",
+      "Landtagswahl.",
+      "Europawahl.",
+      "Bundestagswahl."
+    ],
+    "portalAufgabe": 62
+  },
+  {
+    "index": 63,
+    "correctTextBamf": "die Gerichte",
+    "allOptionsBamf": [
+      "die Polizei",
+      "die Gerichte",
+      "das Finanzamt",
+      "die Ministerien"
+    ],
+    "portalAufgabe": 63
+  },
+  {
+    "index": 64,
+    "correctTextBamf": "Bund, Länder und Kommunen.",
+    "allOptionsBamf": [
+      "vier Besatzungszonen.",
+      "einen Oststaat und einen Weststaat.",
+      "16 Kantone.",
+      "Bund, Länder und Kommunen."
+    ],
+    "portalAufgabe": 64
+  },
+  {
+    "index": 65,
+    "correctTextBamf": "das Bundeskabinett zu bilden.",
+    "allOptionsBamf": [
+      "Gesetze zu entwerfen.",
+      "die Bundesregierung zu kontrollieren.",
+      "den Bundeskanzler / die Bundeskanzlerin zu wählen.",
+      "das Bundeskabinett zu bilden."
+    ],
+    "portalAufgabe": 65
+  },
+  {
+    "index": 66,
+    "correctTextBamf": "Berlin und München",
+    "allOptionsBamf": [
+      "Berlin und München",
+      "Hamburg und Essen",
+      "Nürnberg und Stuttgart",
+      "Worms und Speyer"
+    ],
+    "portalAufgabe": 66
+  },
+  {
+    "index": 67,
+    "correctTextBamf": "Schulpolitik",
+    "allOptionsBamf": [
+      "Verteidigungspolitik",
+      "Außenpolitik",
+      "Wirtschaftspolitik",
+      "Schulpolitik"
+    ],
+    "portalAufgabe": 67
+  },
+  {
+    "index": 68,
+    "correctTextBamf": "weil es nach dem Grundgesetz seine Aufgabe ist",
+    "allOptionsBamf": [
+      "weil es in Deutschland nur staatliche Schulen gibt",
+      "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen",
+      "weil es in den Bundesländern verschiedene Schulen gibt",
+      "weil es nach dem Grundgesetz seine Aufgabe ist"
+    ],
+    "portalAufgabe": 68
+  },
+  {
+    "index": 69,
+    "correctTextBamf": "Gemeinden",
+    "allOptionsBamf": [
+      "Stadträte",
+      "Landräte",
+      "Gemeinden",
+      "Bezirksämter"
+    ],
+    "portalAufgabe": 69
+  },
+  {
+    "index": 70,
+    "correctTextBamf": "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor.",
+    "allOptionsBamf": [
+      "Er / Sie führt die Regierungsgeschäfte.",
+      "Er / Sie kontrolliert die Regierungspartei.",
+      "Er / Sie wählt die Minister / Ministerinnen aus.",
+      "Er / Sie schlägt den Kanzler / die Kanzlerin zur Wahl vor."
+    ],
+    "portalAufgabe": 70
+  },
+  {
+    "index": 71,
+    "correctTextBamf": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+    "allOptionsBamf": [
+      "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+      "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+      "auf Schloss Bellevue, dem Amtssitz des Bundespräsidenten / der Bundespräsidentin, um Staatsgäste zu empfangen.",
+      "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+    ],
+    "portalAufgabe": 71
+  },
+  {
+    "index": 72,
+    "correctTextBamf": "Friedrich Merz",
+    "allOptionsBamf": [
+      "Gerhard Schröder",
+      "Angela Merkel",
+      "Ursula von der Leyen",
+      "Friedrich Merz"
+    ],
+    "portalAufgabe": 72
+  },
+  {
+    "index": 73,
+    "correctTextBamf": "CDU/CSU und AfD.",
+    "allOptionsBamf": [
+      "CDU/CSU und AfD.",
+      "Die Linke und Bündnis 90/Die Grünen.",
+      "Bündnis 90/Die Grünen und SPD.",
+      "Die Linke und CDU/CSU."
+    ],
+    "portalAufgabe": 73
+  },
+  {
+    "index": 74,
+    "correctTextBamf": "Bundestag",
+    "allOptionsBamf": [
+      "Bundesversammlung",
+      "Volkskammer",
+      "Bundestag",
+      "Bundesgerichtshof"
+    ],
+    "portalAufgabe": 74
+  },
+  {
+    "index": 75,
+    "correctTextBamf": "Frank-Walter Steinmeier",
+    "allOptionsBamf": [
+      "Frank-Walter Steinmeier",
+      "Bärbel Bas",
+      "Bodo Ramelow",
+      "Joachim Gauck"
+    ],
+    "portalAufgabe": 75
+  },
+  {
+    "index": 76,
+    "correctTextBamf": "Christlich Demokratische Union",
+    "allOptionsBamf": [
+      "Christliche Deutsche Union",
+      "Club Deutscher Unternehmer",
+      "Christlicher Deutscher Umweltschutz",
+      "Christlich Demokratische Union"
+    ],
+    "portalAufgabe": 76
+  },
+  {
+    "index": 77,
+    "correctTextBamf": "die deutsche Armee",
+    "allOptionsBamf": [
+      "die deutsche Polizei",
+      "ein deutscher Hafen",
+      "eine deutsche Bürgerinitiative",
+      "die deutsche Armee"
+    ],
+    "portalAufgabe": 77
+  },
+  {
+    "index": 78,
+    "correctTextBamf": "Sozialdemokratische Partei Deutschlands",
+    "allOptionsBamf": [
+      "Sozialistische Partei Deutschlands",
+      "Sozialpolitische Partei Deutschlands",
+      "Sozialdemokratische Partei Deutschlands",
+      "Sozialgerechte Partei Deutschlands"
+    ],
+    "portalAufgabe": 78
+  },
+  {
+    "index": 79,
+    "correctTextBamf": "Freie Demokratische Partei",
+    "allOptionsBamf": [
+      "Friedliche Demonstrative Partei",
+      "Freie Deutschland Partei",
+      "Führende Demokratische Partei",
+      "Freie Demokratische Partei"
+    ],
+    "portalAufgabe": 79
+  },
+  {
+    "index": 80,
+    "correctTextBamf": "Bundesverfassungsgericht",
+    "allOptionsBamf": [
+      "Oberlandesgericht",
+      "Amtsgericht",
+      "Bundesverfassungsgericht",
+      "Verwaltungsgericht"
+    ],
+    "portalAufgabe": 80
+  },
+  {
+    "index": 81,
+    "correctTextBamf": "der Bundestag",
+    "allOptionsBamf": [
+      "der Bundesrat",
+      "die Bundesversammlung",
+      "das Volk",
+      "der Bundestag"
+    ],
+    "portalAufgabe": 81
+  },
+  {
+    "index": 82,
+    "correctTextBamf": "der Bundeskanzler / die Bundeskanzlerin",
+    "allOptionsBamf": [
+      "der Bundestagspräsident / die Bundestagspräsidentin",
+      "der Bundespräsident / die Bundespräsidentin",
+      "der Bundesratspräsident / die Bundesratspräsidentin",
+      "der Bundeskanzler / die Bundeskanzlerin"
+    ],
+    "portalAufgabe": 82
+  },
+  {
+    "index": 83,
+    "correctTextBamf": "der Bundestag",
+    "allOptionsBamf": [
+      "das Volk",
+      "die Bundesversammlung",
+      "der Bundestag",
+      "die Bundesregierung"
+    ],
+    "portalAufgabe": 83
+  },
+  {
+    "index": 84,
+    "correctTextBamf": "repräsentiert das Land.",
+    "allOptionsBamf": [
+      "regiert das Land.",
+      "entwirft die Gesetze.",
+      "repräsentiert das Land.",
+      "überwacht die Einhaltung der Gesetze."
+    ],
+    "portalAufgabe": 84
+  },
+  {
+    "index": 85,
+    "correctTextBamf": "die Regierungsvertreter der Bundesländer",
+    "allOptionsBamf": [
+      "die Abgeordneten des Bundestages",
+      "die Minister und Ministerinnen der Bundesregierung",
+      "die Regierungsvertreter der Bundesländer",
+      "die Parteimitglieder"
+    ],
+    "portalAufgabe": 85
+  },
+  {
+    "index": 86,
+    "correctTextBamf": "die Bundesversammlung",
+    "allOptionsBamf": [
+      "die Bundesversammlung",
+      "der Bundesrat",
+      "das Bundesparlament",
+      "das Bundesverfassungsgericht"
+    ],
+    "portalAufgabe": 86
+  },
+  {
+    "index": 87,
+    "correctTextBamf": "der Bundespräsident / die Bundespräsidentin",
+    "allOptionsBamf": [
+      "der Bundeskanzler / die Bundeskanzlerin",
+      "der Bundespräsident / die Bundespräsidentin",
+      "der Bundesratspräsident / die Bundesratspräsidentin",
+      "der Bundestagspräsident / die Bundestagspräsidentin"
+    ],
+    "portalAufgabe": 87
+  },
+  {
+    "index": 88,
+    "correctTextBamf": "kontrolliert die Regierung.",
+    "allOptionsBamf": [
+      "kontrolliert die Regierung.",
+      "entscheidet, wer Bundesminister / Bundesministerin wird.",
+      "bestimmt, wer im Bundesrat sitzt.",
+      "schlägt die Regierungschefs / Regierungschefinnen der Länder vor."
+    ],
+    "portalAufgabe": 88
+  },
+  {
+    "index": 89,
+    "correctTextBamf": "Fraktion",
+    "allOptionsBamf": [
+      "Verband",
+      "Ältestenrat",
+      "Fraktion",
+      "Opposition"
+    ],
+    "portalAufgabe": 89
+  },
+  {
+    "index": 90,
+    "correctTextBamf": "den Bundesrat.",
+    "allOptionsBamf": [
+      "den Bundesrat.",
+      "die Bundesversammlung.",
+      "den Bundestag.",
+      "die Bundesregierung."
+    ],
+    "portalAufgabe": 90
+  },
+  {
+    "index": 91,
+    "correctTextBamf": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+    "allOptionsBamf": [
+      "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+      "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+      "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+      "leichter, wenn es sich um ein reiches Bundesland handelt."
+    ],
+    "portalAufgabe": 91
+  },
+  {
+    "index": 92,
+    "correctTextBamf": "Christlich Soziale Union",
+    "allOptionsBamf": [
+      "Christlich Sichere Union",
+      "Christlich Süddeutsche Union",
+      "Christlich Sozialer Unternehmerverband",
+      "Christlich Soziale Union"
+    ],
+    "portalAufgabe": 92
+  },
+  {
+    "index": 93,
+    "correctTextBamf": "mehr Sitze erhält die Partei im Parlament.",
+    "allOptionsBamf": [
+      "weniger Erststimmen kann sie haben.",
+      "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+      "größer ist das Risiko, eine Koalition bilden zu müssen.",
+      "mehr Sitze erhält die Partei im Parlament."
+    ],
+    "portalAufgabe": 93
+  },
+  {
+    "index": 94,
+    "correctTextBamf": "18",
+    "allOptionsBamf": [
+      "16",
+      "18",
+      "21",
+      "23"
+    ],
+    "portalAufgabe": 94
+  },
+  {
+    "index": 95,
+    "correctTextBamf": "Schulpflicht",
+    "allOptionsBamf": [
+      "Wahlpflicht",
+      "Schulpflicht",
+      "Schweigepflicht",
+      "Religionspflicht"
+    ],
+    "portalAufgabe": 95
+  },
+  {
+    "index": 96,
+    "correctTextBamf": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+    "allOptionsBamf": [
+      "Kürzung sozialer Leistungen",
+      "bis zu 100 Sozialstunden",
+      "gar nicht, Holocaustleugnung ist erlaubt",
+      "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+    ],
+    "portalAufgabe": 96
+  },
+  {
+    "index": 97,
+    "correctTextBamf": "Sozialversicherung",
+    "allOptionsBamf": [
+      "Sozialversicherung",
+      "Sozialhilfe",
+      "Kindergeld",
+      "Wohngeld"
+    ],
+    "portalAufgabe": 97
+  },
+  {
+    "index": 98,
+    "correctTextBamf": "kann die Regierung ihre Mehrheit verlieren.",
+    "allOptionsBamf": [
+      "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+      "kann die Regierung ihre Mehrheit verlieren.",
+      "muss der Bundespräsident / die Bundespräsidentin zuvor sein / ihr Einverständnis geben.",
+      "dürfen die Wähler / Wählerinnen dieser Abgeordneten noch einmal wählen."
+    ],
+    "portalAufgabe": 98
+  },
+  {
+    "index": 99,
+    "correctTextBamf": "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+    "allOptionsBamf": [
+      "Arbeitgeber / Arbeitgeberinnen und Arbeitnehmer / Arbeitnehmerinnen",
+      "nur Arbeitnehmer / Arbeitnehmerinnen",
+      "alle Staatsangehörigen",
+      "nur Arbeitgeber / Arbeitgeberinnen"
+    ],
+    "portalAufgabe": 99
+  },
+  {
+    "index": 100,
+    "correctTextBamf": "die Lebensversicherung",
+    "allOptionsBamf": [
+      "die Lebensversicherung",
+      "die gesetzliche Rentenversicherung",
+      "die Arbeitslosenversicherung",
+      "die Pflegeversicherung"
+    ],
+    "portalAufgabe": 100
+  },
+  {
+    "index": 101,
+    "correctTextBamf": "Arbeitnehmer und Arbeitnehmerinnen.",
+    "allOptionsBamf": [
+      "Jugendlichen.",
+      "Arbeitnehmer und Arbeitnehmerinnen.",
+      "Rentner und Rentnerinnen.",
+      "Arbeitgeber und Arbeitgeberinnen."
+    ],
+    "portalAufgabe": 101
+  },
+  {
+    "index": 102,
+    "correctTextBamf": "Bundesverdienstkreuz",
+    "allOptionsBamf": [
+      "Bundesverdienstkreuz",
+      "Bundesadler",
+      "Vaterländischen Verdienstorden",
+      "Ehrentitel \"Held der Deutschen Demokratischen Republik\""
+    ],
+    "portalAufgabe": 102
+  },
+  {
+    "index": 103,
+    "correctTextBamf": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+    "allOptionsBamf": [
+      "der Bundestagsfraktionen von CDU und CSU",
+      "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+      "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+      "der Bundestagsfraktionen von CDU und SPD"
+    ],
+    "portalAufgabe": 103
+  },
+  {
+    "index": 104,
+    "correctTextBamf": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+    "allOptionsBamf": [
+      "Die Frau ist lange krank und arbeitsunfähig.",
+      "Die Frau kam oft zu spät zur Arbeit.",
+      "Die Frau erledigt private Sachen während der Arbeitszeit.",
+      "Die Frau bekommt ein Kind und ihr Chef weiß das."
+    ],
+    "portalAufgabe": 104
+  },
+  {
+    "index": 105,
+    "correctTextBamf": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "allOptionsBamf": [
+      "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+      "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+      "Sie geben Zwischenergebnisse an die Medien weiter.",
+      "Sie zählen die Stimmen nach dem Ende der Wahl."
+    ],
+    "portalAufgabe": 105
+  },
+  {
+    "index": 106,
+    "correctTextBamf": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+    "allOptionsBamf": [
+      "Sie helfen Kindern und alten Menschen beim Wählen.",
+      "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+      "Sie geben Zwischenergebnisse an Journalisten weiter.",
+      "Sie zählen die Stimmen nach dem Ende der Wahl."
+    ],
+    "portalAufgabe": 106
+  },
+  {
+    "index": 107,
+    "correctTextBamf": "4 Jahre",
+    "allOptionsBamf": [
+      "2 Jahre",
+      "4 Jahre",
+      "6 Jahre",
+      "8 Jahre"
+    ],
+    "portalAufgabe": 107
+  },
+  {
+    "index": 108,
+    "correctTextBamf": "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+    "allOptionsBamf": [
+      "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+      "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+      "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+      "Bürger / Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist."
+    ],
+    "portalAufgabe": 108
+  },
+  {
+    "index": 109,
+    "correctTextBamf": "alle vier Jahre",
+    "allOptionsBamf": [
+      "alle drei Jahre",
+      "alle vier Jahre",
+      "alle fünf Jahre",
+      "alle sechs Jahre"
+    ],
+    "portalAufgabe": 109
+  },
+  {
+    "index": 110,
+    "correctTextBamf": "4 Jahre",
+    "allOptionsBamf": [
+      "2 Jahre",
+      "3 Jahre",
+      "4 Jahre",
+      "5 Jahre"
+    ],
+    "portalAufgabe": 110
+  },
+  {
+    "index": 111,
+    "correctTextBamf": "der öffentliche Aufruf zur Vernichtung Israels",
+    "allOptionsBamf": [
+      "die Politik Israels öffentlich kritisieren",
+      "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+      "eine Diskussion über die Politik Israels",
+      "der öffentliche Aufruf zur Vernichtung Israels"
+    ],
+    "portalAufgabe": 111
+  },
+  {
+    "index": 112,
+    "correctTextBamf": "geheim.",
+    "allOptionsBamf": [
+      "speziell.",
+      "geheim.",
+      "berufsbezogen.",
+      "geschlechtsabhängig."
+    ],
+    "portalAufgabe": 112
+  },
+  {
+    "index": 113,
+    "correctTextBamf": "die meisten Stimmen bekommt.",
+    "allOptionsBamf": [
+      "die meisten Stimmen bekommt.",
+      "die meisten Männer mehrheitlich gewählt haben.",
+      "die meisten Stimmen bei den Arbeitern / Arbeiterinnen bekommen hat.",
+      "die meisten Erststimmen für ihren Kanzlerkandidaten / ihre Kanzlerkandidatin erhalten hat."
+    ],
+    "portalAufgabe": 113
+  },
+  {
+    "index": 114,
+    "correctTextBamf": "ein Recht.",
+    "allOptionsBamf": [
+      "eine Pflicht.",
+      "ein Recht.",
+      "ein Zwang.",
+      "eine Last."
+    ],
+    "portalAufgabe": 114
+  },
+  {
+    "index": 115,
+    "correctTextBamf": "Man kann wählen.",
+    "allOptionsBamf": [
+      "Man kann gewählt werden.",
+      "Man muss wählen gehen.",
+      "Man kann wählen.",
+      "Man muss zur Auszählung der Stimmen gehen."
+    ],
+    "portalAufgabe": 115
+  },
+  {
+    "index": 116,
+    "correctTextBamf": "aktives Wahlrecht.",
+    "allOptionsBamf": [
+      "aktive Wahlkampagne.",
+      "aktives Wahlverfahren.",
+      "aktiver Wahlkampf.",
+      "aktives Wahlrecht."
+    ],
+    "portalAufgabe": 116
+  },
+  {
+    "index": 117,
+    "correctTextBamf": "5%",
+    "allOptionsBamf": [
+      "3%",
+      "4%",
+      "5%",
+      "6%"
+    ],
+    "portalAufgabe": 117
+  },
+  {
+    "index": 118,
+    "correctTextBamf": "alle Menschen",
+    "allOptionsBamf": [
+      "nur Deutsche",
+      "nur Israelis",
+      "nur religiöse Menschen",
+      "alle Menschen"
+    ],
+    "portalAufgabe": 118
+  },
+  {
+    "index": 119,
+    "correctTextBamf": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+    "allOptionsBamf": [
+      "Alle verurteilten Straftäter / Straftäterinnen dürfen nicht wählen.",
+      "Wenn ich wählen gehen möchte, muss mein Arbeitgeber / meine Arbeitgeberin mir frei geben.",
+      "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+      "Ich kann frei entscheiden, wo ich wählen gehen möchte."
+    ],
+    "portalAufgabe": 119
+  },
+  {
+    "index": 120,
+    "correctTextBamf": "Mehrheits- und Verhältniswahlrecht.",
+    "allOptionsBamf": [
+      "Zensuswahlrecht.",
+      "Dreiklassenwahlrecht.",
+      "Mehrheits- und Verhältniswahlrecht.",
+      "allgemeines Männerwahlrecht."
+    ],
+    "portalAufgabe": 120
+  },
+  {
+    "index": 121,
+    "correctTextBamf": "5%-Hürde.",
+    "allOptionsBamf": [
+      "5%-Hürde.",
+      "Zulassungsgrenze.",
+      "Basiswert.",
+      "Richtlinie."
+    ],
+    "portalAufgabe": 121
+  },
+  {
+    "index": 122,
+    "correctTextBamf": "frei, gleich, geheim.",
+    "allOptionsBamf": [
+      "frei, gleich, geheim.",
+      "offen, sicher, frei.",
+      "geschlossen, gleich, sicher.",
+      "sicher, offen, freiwillig."
+    ],
+    "portalAufgabe": 122
+  },
+  {
+    "index": 123,
+    "correctTextBamf": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+    "allOptionsBamf": [
+      "Abstimmungsregelung im Bundestag für kleine Parteien",
+      "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+      "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+      "Anwesenheitskontrolle im Bundesrat für Abstimmungen"
+    ],
+    "portalAufgabe": 123
+  },
+  {
+    "index": 124,
+    "correctTextBamf": "des Parlaments für Deutschland.",
+    "allOptionsBamf": [
+      "des Bundeskanzlers / der Bundeskanzlerin.",
+      "der Parlamente der Länder.",
+      "des Parlaments für Deutschland.",
+      "des Bundespräsidenten / der Bundespräsidentin."
+    ],
+    "portalAufgabe": 124
+  },
+  {
+    "index": 125,
+    "correctTextBamf": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+    "allOptionsBamf": [
+      "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
+      "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+      "im Land bestehende Gesetze beizubehalten.",
+      "den Armen mehr Macht zu geben."
+    ],
+    "portalAufgabe": 125
+  },
+  {
+    "index": 126,
+    "correctTextBamf": "eine Wahlbenachrichtigung von der Gemeinde",
+    "allOptionsBamf": [
+      "eine Wahlbenachrichtigung von der Gemeinde",
+      "eine Wahlerlaubnis vom Bundespräsidenten / von der Bundespräsidentin",
+      "eine Benachrichtigung von der Bundesversammlung",
+      "eine Benachrichtigung vom Pfarramt"
+    ],
+    "portalAufgabe": 126
+  },
+  {
+    "index": 127,
+    "correctTextBamf": "viele kleine Parteien die Regierungsbildung erschweren.",
+    "allOptionsBamf": [
+      "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+      "die Bürger und Bürgerinnen bei vielen kleinen Parteien die Orientierung verlieren können.",
+      "viele kleine Parteien die Regierungsbildung erschweren.",
+      "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen."
+    ],
+    "portalAufgabe": 127
+  },
+  {
+    "index": 128,
+    "correctTextBamf": "Abgeordnete.",
+    "allOptionsBamf": [
+      "Abgeordnete.",
+      "Kanzler / Kanzlerinnen.",
+      "Botschafter / Botschafterinnen.",
+      "Ministerpräsidenten / Ministerpräsidentinnen."
+    ],
+    "portalAufgabe": 128
+  },
+  {
+    "index": 129,
+    "correctTextBamf": "der Bundestag.",
+    "allOptionsBamf": [
+      "der Bundeskanzler / die Bundeskanzlerin.",
+      "der Ministerpräsident / die Ministerpräsidentin eines Bundeslandes.",
+      "der Bundestag.",
+      "der Bundespräsident / die Bundespräsidentin."
+    ],
+    "portalAufgabe": 129
+  },
+  {
+    "index": 130,
+    "correctTextBamf": "1",
+    "allOptionsBamf": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "portalAufgabe": 130
+  },
+  {
+    "index": 131,
+    "correctTextBamf": "das Oberhaupt einer Gemeinde.",
+    "allOptionsBamf": [
+      "der Leiter / die Leiterin einer Schule.",
+      "der Chef / die Chefin einer Bank.",
+      "das Oberhaupt einer Gemeinde.",
+      "der / die Vorsitzende einer Partei."
+    ],
+    "portalAufgabe": 131
+  },
+  {
+    "index": 132,
+    "correctTextBamf": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+    "allOptionsBamf": [
+      "Sie arbeiten als Soldaten / Soldatinnen.",
+      "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+      "Sie arbeiten in der Bundesregierung.",
+      "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld."
+    ],
+    "portalAufgabe": 132
+  },
+  {
+    "index": 133,
+    "correctTextBamf": "Man kann durch Briefwahl seine Stimme abgeben.",
+    "allOptionsBamf": [
+      "Der Ehemann wählt für seine Frau mit.",
+      "Man kann durch Briefwahl seine Stimme abgeben.",
+      "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+      "Kinder ab dem Alter von 14 Jahren dürfen wählen."
+    ],
+    "portalAufgabe": 133
+  },
+  {
+    "index": 134,
+    "correctTextBamf": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+    "allOptionsBamf": [
+      "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+      "Ich werde Mitglied in einem Sportverein und trainiere Radfahren.",
+      "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+      "Ich schreibe einen Brief an das Forstamt der Gemeinde."
+    ],
+    "portalAufgabe": 134
+  },
+  {
+    "index": 135,
+    "correctTextBamf": "Arbeitnehmer und Arbeitnehmerinnen",
+    "allOptionsBamf": [
+      "große Unternehmen",
+      "kleine Unternehmen",
+      "Selbständige",
+      "Arbeitnehmer und Arbeitnehmerinnen"
+    ],
+    "portalAufgabe": 135
+  },
+  {
+    "index": 136,
+    "correctTextBamf": "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+    "allOptionsBamf": [
+      "falscher Nebenkostenabrechnung.",
+      "ungerechtfertigter Kündigung durch Ihren Chef / Ihre Chefin.",
+      "Problemen mit den Nachbarn / Nachbarinnen.",
+      "Schwierigkeiten nach einem Verkehrsunfall."
+    ],
+    "portalAufgabe": 136
+  },
+  {
+    "index": 137,
+    "correctTextBamf": "das Arbeitsgericht",
+    "allOptionsBamf": [
+      "das Familiengericht",
+      "das Strafgericht",
+      "das Arbeitsgericht",
+      "das Amtsgericht"
+    ],
+    "portalAufgabe": 137
+  },
+  {
+    "index": 138,
+    "correctTextBamf": "Kündigungsschutzklage erheben",
+    "allOptionsBamf": [
+      "weiter arbeiten und freundlich zum Chef / zur Chefin sein",
+      "ein Mahnverfahren gegen den Arbeitgeber / die Arbeitgeberin führen",
+      "Kündigungsschutzklage erheben",
+      "den Arbeitgeber / die Arbeitgeberin bei der Polizei anzeigen"
+    ],
+    "portalAufgabe": 138
+  },
+  {
+    "index": 139,
+    "correctTextBamf": "eine Straftat begangen hat und angeklagt wird.",
+    "allOptionsBamf": [
+      "zu einer anderen Religion übertritt.",
+      "eine Straftat begangen hat und angeklagt wird.",
+      "eine andere Meinung als die der Regierung vertritt.",
+      "sein Auto falsch geparkt hat und es abgeschleppt wird."
+    ],
+    "portalAufgabe": 139
+  },
+  {
+    "index": 140,
+    "correctTextBamf": "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+    "allOptionsBamf": [
+      "entscheidet mit Richtern / Richterinnen über Schuld und Strafe.",
+      "gibt Bürgern / Bürgerinnen rechtlichen Rat.",
+      "stellt Urkunden aus.",
+      "verteidigt den Angeklagten / die Angeklagte."
+    ],
+    "portalAufgabe": 140
+  },
+  {
+    "index": 141,
+    "correctTextBamf": "ein Rechtsanwalt / eine Rechtsanwältin",
+    "allOptionsBamf": [
+      "ein Rechtsanwalt / eine Rechtsanwältin",
+      "ein Richter / eine Richterin",
+      "ein Schöffe / eine Schöffin",
+      "ein Staatsanwalt / eine Staatsanwältin"
+    ],
+    "portalAufgabe": 141
+  },
+  {
+    "index": 142,
+    "correctTextBamf": "arbeitet an einem Gericht und spricht Urteile.",
+    "allOptionsBamf": [
+      "vertritt Bürger und Bürgerinnen vor einem Gericht.",
+      "arbeitet an einem Gericht und spricht Urteile.",
+      "ändert Gesetze.",
+      "betreut Jugendliche vor Gericht."
+    ],
+    "portalAufgabe": 142
+  },
+  {
+    "index": 143,
+    "correctTextBamf": "Judikative.",
+    "allOptionsBamf": [
+      "Judikative.",
+      "Exekutive.",
+      "Operative.",
+      "Legislative."
+    ],
+    "portalAufgabe": 143
+  },
+  {
+    "index": 144,
+    "correctTextBamf": "rechtsprechenden Gewalt.",
+    "allOptionsBamf": [
+      "vollziehenden Gewalt.",
+      "rechtsprechenden Gewalt.",
+      "planenden Gewalt.",
+      "gesetzgebenden Gewalt."
+    ],
+    "portalAufgabe": 144
+  },
+  {
+    "index": 145,
+    "correctTextBamf": "Judikative",
+    "allOptionsBamf": [
+      "Judikative",
+      "Exekutive",
+      "Presse",
+      "Legislative"
+    ],
+    "portalAufgabe": 145
+  },
+  {
+    "index": 146,
+    "correctTextBamf": "Prozess",
+    "allOptionsBamf": [
+      "Programm",
+      "Prozedur",
+      "Protokoll",
+      "Prozess"
+    ],
+    "portalAufgabe": 146
+  },
+  {
+    "index": 147,
+    "correctTextBamf": "Recht sprechen",
+    "allOptionsBamf": [
+      "Deutschland regieren",
+      "Recht sprechen",
+      "Pläne erstellen",
+      "Gesetze erlassen"
+    ],
+    "portalAufgabe": 147
+  },
+  {
+    "index": 148,
+    "correctTextBamf": "die Einhaltung von Gesetzen zu überwachen",
+    "allOptionsBamf": [
+      "das Land zu verteidigen",
+      "die Bürgerinnen und Bürger abzuhören",
+      "die Gesetze zu beschließen",
+      "die Einhaltung von Gesetzen zu überwachen"
+    ],
+    "portalAufgabe": 148
+  },
+  {
+    "index": 149,
+    "correctTextBamf": "den Holocaust leugnen",
+    "allOptionsBamf": [
+      "ein jüdisches Fest besuchen",
+      "die israelische Regierung kritisieren",
+      "den Holocaust leugnen",
+      "gegen Juden Fußball spielen"
+    ],
+    "portalAufgabe": 149
+  },
+  {
+    "index": 150,
+    "correctTextBamf": "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+    "allOptionsBamf": [
+      "der Stellvertreter / die Stellvertreterin des Stadtoberhaupts.",
+      "ein ehrenamtlicher Richter / eine ehrenamtliche Richterin.",
+      "ein Mitglied eines Gemeinderats.",
+      "eine Person, die Jura studiert hat."
+    ],
+    "portalAufgabe": 150
+  },
+  {
+    "index": 151,
+    "correctTextBamf": "die DDR",
+    "allOptionsBamf": [
+      "Großbritannien",
+      "die DDR",
+      "die Bundesrepublik Deutschland",
+      "die USA"
+    ],
+    "portalAufgabe": 151
+  },
+  {
+    "index": 152,
+    "correctTextBamf": "1933 bis 1945",
+    "allOptionsBamf": [
+      "1918 bis 1923",
+      "1932 bis 1950",
+      "1933 bis 1945",
+      "1945 bis 1989"
+    ],
+    "portalAufgabe": 152
+  },
+  {
+    "index": 153,
+    "correctTextBamf": "Ende des Zweiten Weltkriegs in Europa",
+    "allOptionsBamf": [
+      "Tod Adolf Hitlers",
+      "Beginn des Berliner Mauerbaus",
+      "Wahl von Konrad Adenauer zum Bundeskanzler",
+      "Ende des Zweiten Weltkriegs in Europa"
+    ],
+    "portalAufgabe": 153
+  },
+  {
+    "index": 154,
+    "correctTextBamf": "1945",
+    "allOptionsBamf": [
+      "1933",
+      "1945",
+      "1949",
+      "1961"
+    ],
+    "portalAufgabe": 154
+  },
+  {
+    "index": 155,
+    "correctTextBamf": "1933 bis 1945",
+    "allOptionsBamf": [
+      "1888 bis 1918",
+      "1921 bis 1934",
+      "1933 bis 1945",
+      "1949 bis 1963"
+    ],
+    "portalAufgabe": 155
+  },
+  {
+    "index": 156,
+    "correctTextBamf": "1933",
+    "allOptionsBamf": [
+      "1923",
+      "1927",
+      "1933",
+      "1936"
+    ],
+    "portalAufgabe": 156
+  },
+  {
+    "index": 157,
+    "correctTextBamf": "eine Diktatur.",
+    "allOptionsBamf": [
+      "eine Diktatur.",
+      "einen demokratischen Staat.",
+      "eine Monarchie.",
+      "ein Fürstentum."
+    ],
+    "portalAufgabe": 157
+  },
+  {
+    "index": 158,
+    "correctTextBamf": "Diktatur.",
+    "allOptionsBamf": [
+      "Diktatur.",
+      "Demokratie.",
+      "Monarchie.",
+      "Räterepublik."
+    ],
+    "portalAufgabe": 158
+  },
+  {
+    "index": 159,
+    "correctTextBamf": "freie Wahlen",
+    "allOptionsBamf": [
+      "freie Wahlen",
+      "Pressezensur",
+      "willkürliche Verhaftungen",
+      "Verfolgung der Juden"
+    ],
+    "portalAufgabe": 159
+  },
+  {
+    "index": 160,
+    "correctTextBamf": "der Zweite Weltkrieg",
+    "allOptionsBamf": [
+      "der Erste Weltkrieg",
+      "der Zweite Weltkrieg",
+      "der Vietnamkrieg",
+      "der Golfkrieg"
+    ],
+    "portalAufgabe": 160
+  },
+  {
+    "index": 161,
+    "correctTextBamf": "des staatlichen Rassismus",
+    "allOptionsBamf": [
+      "des staatlichen Rassismus",
+      "der Meinungsfreiheit",
+      "der allgemeinen Religionsfreiheit",
+      "der Entwicklung der Demokratie"
+    ],
+    "portalAufgabe": 161
+  },
+  {
+    "index": 162,
+    "correctTextBamf": "das Attentat auf Hitler am 20. Juli 1944.",
+    "allOptionsBamf": [
+      "eine Goldmedaille bei den Olympischen Spielen 1936.",
+      "den Bau des Reichstagsgebäudes.",
+      "den Aufbau der Wehrmacht.",
+      "das Attentat auf Hitler am 20. Juli 1944."
+    ],
+    "portalAufgabe": 162
+  },
+  {
+    "index": 163,
+    "correctTextBamf": "1938",
+    "allOptionsBamf": [
+      "1925",
+      "1930",
+      "1938",
+      "1945"
+    ],
+    "portalAufgabe": 163
+  },
+  {
+    "index": 164,
+    "correctTextBamf": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+    "allOptionsBamf": [
+      "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg.",
+      "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf.",
+      "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört.",
+      "Hitler wird Reichspräsident und lässt alle Parteien verbieten."
+    ],
+    "portalAufgabe": 164
+  },
+  {
+    "index": 165,
+    "correctTextBamf": "Konrad Adenauer",
+    "allOptionsBamf": [
+      "Konrad Adenauer",
+      "Kurt Georg Kiesinger",
+      "Helmut Schmidt",
+      "Willy Brandt"
+    ],
+    "portalAufgabe": 165
+  },
+  {
+    "index": 166,
+    "correctTextBamf": "bei den Montagsdemonstrationen 1989 in der DDR",
+    "allOptionsBamf": [
+      "beim Arbeiteraufstand 1953 in der DDR",
+      "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+      "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+      "bei den Montagsdemonstrationen 1989 in der DDR"
+    ],
+    "portalAufgabe": 166
+  },
+  {
+    "index": 167,
+    "correctTextBamf": "USA, Sowjetunion, Großbritannien, Frankreich",
+    "allOptionsBamf": [
+      "Sowjetunion, Großbritannien, Polen, Schweden",
+      "Frankreich, Sowjetunion, Italien, Japan",
+      "USA, Sowjetunion, Spanien, Portugal",
+      "USA, Sowjetunion, Großbritannien, Frankreich"
+    ],
+    "portalAufgabe": 167
+  },
+  {
+    "index": 168,
+    "correctTextBamf": "Japan",
+    "allOptionsBamf": [
+      "USA",
+      "Sowjetunion",
+      "Frankreich",
+      "Japan"
+    ],
+    "portalAufgabe": 168
+  },
+  {
+    "index": 169,
+    "correctTextBamf": "1949",
+    "allOptionsBamf": [
+      "1939",
+      "1945",
+      "1949",
+      "1951"
+    ],
+    "portalAufgabe": 169
+  },
+  {
+    "index": 170,
+    "correctTextBamf": "das Verbot von Parteien",
+    "allOptionsBamf": [
+      "das Verbot von Parteien",
+      "das Recht zur freien Entfaltung der Persönlichkeit",
+      "Pressefreiheit",
+      "den Schutz der Menschenwürde"
+    ],
+    "portalAufgabe": 170
+  },
+  {
+    "index": 171,
+    "correctTextBamf": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+    "allOptionsBamf": [
+      "steuert sich allein nach Angebot und Nachfrage.",
+      "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+      "richtet sich nach der Nachfrage im Ausland.",
+      "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich."
+    ],
+    "portalAufgabe": 171
+  },
+  {
+    "index": 172,
+    "correctTextBamf": "sowjetischen Besatzungszone",
+    "allOptionsBamf": [
+      "amerikanischen Besatzungszone",
+      "französischen Besatzungszone",
+      "britischen Besatzungszone",
+      "sowjetischen Besatzungszone"
+    ],
+    "portalAufgabe": 172
+  },
+  {
+    "index": 173,
+    "correctTextBamf": "der Europäischen Union (EU).",
+    "allOptionsBamf": [
+      "des Nordatlantikpakts (NATO).",
+      "der Vereinten Nationen (VN).",
+      "der Europäischen Union (EU).",
+      "des Warschauer Pakts."
+    ],
+    "portalAufgabe": 173
+  },
+  {
+    "index": 174,
+    "correctTextBamf": "1949",
+    "allOptionsBamf": [
+      "1947",
+      "1949",
+      "1953",
+      "1956"
+    ],
+    "portalAufgabe": 174
+  },
+  {
+    "index": 175,
+    "correctTextBamf": "4",
+    "allOptionsBamf": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "portalAufgabe": 175
+  },
+  {
+    "index": 176,
+    "correctTextBamf": "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+    "allOptionsBamf": [
+      "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
+      "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=Sowjetunion, 3=USA, 4=Frankreich",
+      "1=Großbritannien, 2=USA, 3=Sowjetunion, 4=Frankreich"
+    ],
+    "portalAufgabe": 176
+  },
+  {
+    "index": 177,
+    "correctTextBamf": "Berlin",
+    "allOptionsBamf": [
+      "München",
+      "Berlin",
+      "Dresden",
+      "Frankfurt/Oder"
+    ],
+    "portalAufgabe": 177
+  },
+  {
+    "index": 178,
+    "correctTextBamf": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
+    "allOptionsBamf": [
+      "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+      "Die amerikanischen Soldaten / Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
+      "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+      "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege."
+    ],
+    "portalAufgabe": 178
+  },
+  {
+    "index": 179,
+    "correctTextBamf": "durch die bedingungslose Kapitulation Deutschlands",
+    "allOptionsBamf": [
+      "mit dem Tod Adolf Hitlers",
+      "durch die bedingungslose Kapitulation Deutschlands",
+      "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+      "durch eine Revolution in Deutschland"
+    ],
+    "portalAufgabe": 179
+  },
+  {
+    "index": 180,
+    "correctTextBamf": "Konrad Adenauer.",
+    "allOptionsBamf": [
+      "Ludwig Erhard.",
+      "Willy Brandt.",
+      "Konrad Adenauer.",
+      "Gerhard Schröder."
+    ],
+    "portalAufgabe": 180
+  },
+  {
+    "index": 181,
+    "correctTextBamf": "Er bat Polen und die polnischen Juden um Vergebung.",
+    "allOptionsBamf": [
+      "Er hat sich den ehemaligen Alliierten unterworfen.",
+      "Er bat Polen und die polnischen Juden um Vergebung.",
+      "Er zeigte seine Demut vor dem Warschauer Pakt.",
+      "Er sprach ein Gebet am Grab des Unbekannten Soldaten."
+    ],
+    "portalAufgabe": 181
+  },
+  {
+    "index": 182,
+    "correctTextBamf": "Synagoge",
+    "allOptionsBamf": [
+      "Basilika",
+      "Moschee",
+      "Synagoge",
+      "Kirche"
+    ],
+    "portalAufgabe": 182
+  },
+  {
+    "index": 183,
+    "correctTextBamf": "50er Jahre",
+    "allOptionsBamf": [
+      "40er Jahre",
+      "50er Jahre",
+      "70er Jahre",
+      "80er Jahre"
+    ],
+    "portalAufgabe": 183
+  },
+  {
+    "index": 184,
+    "correctTextBamf": "eine Resolution der Vereinten Nationen",
+    "allOptionsBamf": [
+      "eine Resolution der Vereinten Nationen",
+      "ein Beschluss des Zionistenkongresses",
+      "ein Vorschlag der Bundesregierung",
+      "ein Vorschlag der UdSSR"
+    ],
+    "portalAufgabe": 184
+  },
+  {
+    "index": 185,
+    "correctTextBamf": "des Warschauer Pakts gegen den Westen",
+    "allOptionsBamf": [
+      "des Warschauer Pakts gegen den Westen",
+      "Norddeutschlands gegen Süddeutschland",
+      "Nazi-Deutschlands gegen die Alliierten",
+      "Europas gegen die USA"
+    ],
+    "portalAufgabe": 185
+  },
+  {
+    "index": 186,
+    "correctTextBamf": "17. Juni",
+    "allOptionsBamf": [
+      "1. Mai",
+      "17. Juni",
+      "20. Juli",
+      "9. November"
+    ],
+    "portalAufgabe": 186
+  },
+  {
+    "index": 187,
+    "correctTextBamf": "DDR",
+    "allOptionsBamf": [
+      "Preußen",
+      "Bundesrepublik Deutschland",
+      "\"Drittes Reich\"",
+      "DDR"
+    ],
+    "portalAufgabe": 187
+  },
+  {
+    "index": 188,
+    "correctTextBamf": "1961",
+    "allOptionsBamf": [
+      "1953",
+      "1956",
+      "1959",
+      "1961"
+    ],
+    "portalAufgabe": 188
+  },
+  {
+    "index": 189,
+    "correctTextBamf": "1961",
+    "allOptionsBamf": [
+      "1919",
+      "1933",
+      "1961",
+      "1990"
+    ],
+    "portalAufgabe": 189
+  },
+  {
+    "index": 190,
+    "correctTextBamf": "Deutsche Demokratische Republik",
+    "allOptionsBamf": [
+      "Dritter Deutscher Rundfunk",
+      "Die Deutsche Republik",
+      "Dritte Deutsche Republik",
+      "Deutsche Demokratische Republik"
+    ],
+    "portalAufgabe": 190
+  },
+  {
+    "index": 191,
+    "correctTextBamf": "1989",
+    "allOptionsBamf": [
+      "1987",
+      "1989",
+      "1992",
+      "1995"
+    ],
+    "portalAufgabe": 191
+  },
+  {
+    "index": 192,
+    "correctTextBamf": "Brandenburg",
+    "allOptionsBamf": [
+      "Brandenburg",
+      "Bayern",
+      "Saarland",
+      "Hessen"
+    ],
+    "portalAufgabe": 192
+  },
+  {
+    "index": 193,
+    "correctTextBamf": "durch eine Mauer geteilt.",
+    "allOptionsBamf": [
+      "ohne Bürgermeister.",
+      "ein eigener Staat.",
+      "durch eine Mauer geteilt.",
+      "nur mit dem Flugzeug erreichbar."
+    ],
+    "portalAufgabe": 193
+  },
+  {
+    "index": 194,
+    "correctTextBamf": "Einheit.",
+    "allOptionsBamf": [
+      "Einheit.",
+      "Nation.",
+      "Bundesländer.",
+      "Städte."
+    ],
+    "portalAufgabe": 194
+  },
+  {
+    "index": 195,
+    "correctTextBamf": "Sachsen-Anhalt",
+    "allOptionsBamf": [
+      "Hessen",
+      "Sachsen-Anhalt",
+      "Nordrhein-Westfalen",
+      "Saarland"
+    ],
+    "portalAufgabe": 195
+  },
+  {
+    "index": 196,
+    "correctTextBamf": "von einer Diktatur zur Demokratie.",
+    "allOptionsBamf": [
+      "von einer Diktatur zur Demokratie.",
+      "von einer liberalen Marktwirtschaft zum Sozialismus.",
+      "von einer Monarchie zur Sozialdemokratie.",
+      "von einem religiösen Staat zu einem kommunistischen Staat."
+    ],
+    "portalAufgabe": 196
+  },
+  {
+    "index": 197,
+    "correctTextBamf": "Thüringen",
+    "allOptionsBamf": [
+      "Thüringen",
+      "Hessen",
+      "Bayern",
+      "Bremen"
+    ],
+    "portalAufgabe": 197
+  },
+  {
+    "index": 198,
+    "correctTextBamf": "Sachsen",
+    "allOptionsBamf": [
+      "Bayern",
+      "Niedersachsen",
+      "Sachsen",
+      "Baden-Württemberg"
+    ],
+    "portalAufgabe": 198
+  },
+  {
+    "index": 199,
+    "correctTextBamf": "das Ministerium für Staatssicherheit.",
+    "allOptionsBamf": [
+      "das Parlament.",
+      "das Ministerium für Staatssicherheit.",
+      "eine regierende Partei.",
+      "das Ministerium für Volksbildung."
+    ],
+    "portalAufgabe": 199
+  },
+  {
+    "index": 200,
+    "correctTextBamf": "Mecklenburg-Vorpommern",
+    "allOptionsBamf": [
+      "Hessen",
+      "Schleswig-Holstein",
+      "Mecklenburg-Vorpommern",
+      "Saarland"
+    ],
+    "portalAufgabe": 200
+  },
+  {
+    "index": 201,
+    "correctTextBamf": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+    "allOptionsBamf": [
+      "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
+      "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
+      "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
+      "Sachsen, Thüringen, Hessen, Niedersachen, Brandenburg"
+    ],
+    "portalAufgabe": 201
+  },
+  {
+    "index": 202,
+    "correctTextBamf": "zum Warschauer Pakt",
+    "allOptionsBamf": [
+      "zu den Westmächten",
+      "zum Warschauer Pakt",
+      "zur NATO",
+      "zu den blockfreien Staaten"
+    ],
+    "portalAufgabe": 202
+  },
+  {
+    "index": 203,
+    "correctTextBamf": "Planwirtschaft",
+    "allOptionsBamf": [
+      "Marktwirtschaft",
+      "Planwirtschaft",
+      "Angebot und Nachfrage",
+      "Kapitalismus"
+    ],
+    "portalAufgabe": 203
+  },
+  {
+    "index": 204,
+    "correctTextBamf": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+    "allOptionsBamf": [
+      "Die Bundesrepublik hat die DDR besetzt.",
+      "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
+      "Die westlichen Bundesländer sind der DDR beigetreten.",
+      "Die DDR hat die Bundesrepublik Deutschland besetzt."
+    ],
+    "portalAufgabe": 204
+  },
+  {
+    "index": 205,
+    "correctTextBamf": "zur Europäischen Union.",
+    "allOptionsBamf": [
+      "zur Europäischen Union.",
+      "zum Warschauer Pakt.",
+      "zur OPEC.",
+      "zur Europäischen Verteidigungsgemeinschaft."
+    ],
+    "portalAufgabe": 205
+  },
+  {
+    "index": 206,
+    "correctTextBamf": "an die Opfer des Nationalsozialismus",
+    "allOptionsBamf": [
+      "an berühmte deutsche Politikerinnen und Politiker",
+      "an die Opfer des Nationalsozialismus",
+      "an Verkehrstote",
+      "an bekannte jüdische Musiker"
+    ],
+    "portalAufgabe": 206
+  },
+  {
+    "index": 207,
+    "correctTextBamf": "im Warschauer Pakt",
+    "allOptionsBamf": [
+      "in der NATO",
+      "im Rheinbund",
+      "im Warschauer Pakt",
+      "im Europabündnis"
+    ],
+    "portalAufgabe": 207
+  },
+  {
+    "index": 208,
+    "correctTextBamf": "der Geheimdienst der DDR",
+    "allOptionsBamf": [
+      "der Geheimdienst im \"Dritten Reich\"",
+      "eine berühmte deutsche Gedenkstätte",
+      "der Geheimdienst der DDR",
+      "ein deutscher Sportverein während des Zweiten Weltkrieges"
+    ],
+    "portalAufgabe": 208
+  },
+  {
+    "index": 209,
+    "correctTextBamf": "4",
+    "allOptionsBamf": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "portalAufgabe": 209
+  },
+  {
+    "index": 210,
+    "correctTextBamf": "landesweite Streiks und ein Volksaufstand",
+    "allOptionsBamf": [
+      "der feierliche Beitritt zum Warschauer Pakt",
+      "landesweite Streiks und ein Volksaufstand",
+      "der 1. SED-Parteitag",
+      "der erste Besuch Fidel Castros"
+    ],
+    "portalAufgabe": 210
+  },
+  {
+    "index": 211,
+    "correctTextBamf": "Willy Brandt",
+    "allOptionsBamf": [
+      "Helmut Kohl",
+      "Willy Brandt",
+      "Michail Gorbatschow",
+      "Ludwig Erhard"
+    ],
+    "portalAufgabe": 211
+  },
+  {
+    "index": 212,
+    "correctTextBamf": "Bundesrepublik Deutschland",
+    "allOptionsBamf": [
+      "Bundesstaat Deutschland",
+      "Bundesländer Deutschland",
+      "Bundesrepublik Deutschland",
+      "Bundesbezirk Deutschland"
+    ],
+    "portalAufgabe": 212
+  },
+  {
+    "index": 213,
+    "correctTextBamf": "84 Millionen",
+    "allOptionsBamf": [
+      "70 Millionen",
+      "78 Millionen",
+      "84 Millionen",
+      "90 Millionen"
+    ],
+    "portalAufgabe": 213
+  },
+  {
+    "index": 214,
+    "correctTextBamf": "schwarz-rot-gold",
+    "allOptionsBamf": [
+      "schwarz-rot-gold",
+      "rot-weiß-schwarz",
+      "schwarz-rot-grün",
+      "schwarz-gelb-rot"
+    ],
+    "portalAufgabe": 214
+  },
+  {
+    "index": 215,
+    "correctTextBamf": "Helmut Kohl",
+    "allOptionsBamf": [
+      "Gerhard Schröder",
+      "Helmut Kohl",
+      "Konrad Adenauer",
+      "Helmut Schmidt"
+    ],
+    "portalAufgabe": 215
+  },
+  {
+    "index": 216,
+    "correctTextBamf": "der Bundesadler.",
+    "allOptionsBamf": [
+      "der Bundesadler.",
+      "die Fahne der Stadt Berlin.",
+      "der Reichsadler.",
+      "die Reichskrone."
+    ],
+    "portalAufgabe": 216
+  },
+  {
+    "index": 217,
+    "correctTextBamf": "1949 bis 1990",
+    "allOptionsBamf": [
+      "1919 bis 1927",
+      "1933 bis 1945",
+      "1945 bis 1961",
+      "1949 bis 1990"
+    ],
+    "portalAufgabe": 217
+  },
+  {
+    "index": 218,
+    "correctTextBamf": "5",
+    "allOptionsBamf": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "portalAufgabe": 218
+  },
+  {
+    "index": 219,
+    "correctTextBamf": "1990",
+    "allOptionsBamf": [
+      "1933",
+      "1949",
+      "1971",
+      "1990"
+    ],
+    "portalAufgabe": 219
+  },
+  {
+    "index": 220,
+    "correctTextBamf": "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)",
+    "allOptionsBamf": [
+      "an das Ende des Zweiten Weltkrieges",
+      "an die Verabschiedung des Grundgesetzes",
+      "an die Wiedervereinigung Deutschlands",
+      "an die Opfer des Nationalsozialismus (Tag der Befreiung des Vernichtungslagers Auschwitz)"
+    ],
+    "portalAufgabe": 220
+  },
+  {
+    "index": 221,
+    "correctTextBamf": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+    "allOptionsBamf": [
+      "Deutsche können in viele Länder Europas ohne Passkontrolle reisen.",
+      "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen.",
+      "Deutsche können ohne Passkontrolle in jedes Land reisen.",
+      "Deutsche können in jedem Land mit dem Euro bezahlen."
+    ],
+    "portalAufgabe": 221
+  },
+  {
+    "index": 222,
+    "correctTextBamf": "Schweiz",
+    "allOptionsBamf": [
+      "Ungarn",
+      "Portugal",
+      "Spanien",
+      "Schweiz"
+    ],
+    "portalAufgabe": 222
+  },
+  {
+    "index": 223,
+    "correctTextBamf": "Polen",
+    "allOptionsBamf": [
+      "Rumänien",
+      "Bulgarien",
+      "Polen",
+      "Griechenland"
+    ],
+    "portalAufgabe": 223
+  },
+  {
+    "index": 224,
+    "correctTextBamf": "Europäische Union",
+    "allOptionsBamf": [
+      "Europäische Unternehmen",
+      "Europäische Union",
+      "Einheitliche Union",
+      "Euro Union"
+    ],
+    "portalAufgabe": 224
+  },
+  {
+    "index": 225,
+    "correctTextBamf": "Österreich",
+    "allOptionsBamf": [
+      "Tschechien",
+      "Norwegen",
+      "Spanien",
+      "Österreich"
+    ],
+    "portalAufgabe": 225
+  },
+  {
+    "index": 226,
+    "correctTextBamf": "2",
+    "allOptionsBamf": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "portalAufgabe": 226
+  },
+  {
+    "index": 227,
+    "correctTextBamf": "Dänemark",
+    "allOptionsBamf": [
+      "Finnland",
+      "Dänemark",
+      "Norwegen",
+      "Schweden"
+    ],
+    "portalAufgabe": 227
+  },
+  {
+    "index": 228,
+    "correctTextBamf": "Deutsche Wiedervereinigung",
+    "allOptionsBamf": [
+      "NATO-Osterweiterung",
+      "EU-Osterweiterung",
+      "Deutsche Wiedervereinigung",
+      "Europäische Gemeinschaft"
+    ],
+    "portalAufgabe": 228
+  },
+  {
+    "index": 229,
+    "correctTextBamf": "Luxemburg",
+    "allOptionsBamf": [
+      "Spanien",
+      "Bulgarien",
+      "Norwegen",
+      "Luxemburg"
+    ],
+    "portalAufgabe": 229
+  },
+  {
+    "index": 230,
+    "correctTextBamf": "5 Jahre.",
+    "allOptionsBamf": [
+      "5 Jahre.",
+      "6 Jahre.",
+      "7 Jahre.",
+      "8 Jahre."
+    ],
+    "portalAufgabe": 230
+  },
+  {
+    "index": 231,
+    "correctTextBamf": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU.",
+    "allOptionsBamf": [
+      "Damit sind amerikanische Einwanderer in Europa gemeint.",
+      "Der Begriff meint den Einwanderungsstopp nach Europa.",
+      "Damit sind europäische Auswanderer in den USA gemeint.",
+      "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU."
+    ],
+    "portalAufgabe": 231
+  },
+  {
+    "index": 232,
+    "correctTextBamf": "die Abgeordneten des Europäischen Parlaments",
+    "allOptionsBamf": [
+      "die Europäische Kommission",
+      "die Länder, die in die EU eintreten dürfen",
+      "die Abgeordneten des Europäischen Parlaments",
+      "die europäische Verfassung"
+    ],
+    "portalAufgabe": 232
+  },
+  {
+    "index": 233,
+    "correctTextBamf": "Tschechien",
+    "allOptionsBamf": [
+      "Tschechien",
+      "Bulgarien",
+      "Griechenland",
+      "Portugal"
+    ],
+    "portalAufgabe": 233
+  },
+  {
+    "index": 234,
+    "correctTextBamf": "Straßburg",
+    "allOptionsBamf": [
+      "London",
+      "Paris",
+      "Berlin",
+      "Straßburg"
+    ],
+    "portalAufgabe": 234
+  },
+  {
+    "index": 235,
+    "correctTextBamf": "Frieden und Sicherheit in den Ländern der EU",
+    "allOptionsBamf": [
+      "Freundschaft zwischen England und Deutschland",
+      "Reisefreiheit in alle Länder der EU",
+      "Frieden und Sicherheit in den Ländern der EU",
+      "einheitliche Feiertage in den Ländern der EU"
+    ],
+    "portalAufgabe": 235
+  },
+  {
+    "index": 236,
+    "correctTextBamf": "27",
+    "allOptionsBamf": [
+      "21",
+      "23",
+      "25",
+      "27"
+    ],
+    "portalAufgabe": 236
+  },
+  {
+    "index": 237,
+    "correctTextBamf": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+    "allOptionsBamf": [
+      "Beitritt Deutschlands zur NATO",
+      "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
+      "Verpflichtung Deutschlands zu Reparationsleistungen",
+      "Festlegung der Oder-Neiße-Linie als Ostgrenze"
+    ],
+    "portalAufgabe": 237
+  },
+  {
+    "index": 238,
+    "correctTextBamf": "Straßburg, Luxemburg und Brüssel",
+    "allOptionsBamf": [
+      "Paris, London und Den Haag",
+      "Straßburg, Luxemburg und Brüssel",
+      "Rom, Bern und Wien",
+      "Bonn, Zürich und Mailand"
+    ],
+    "portalAufgabe": 238
+  },
+  {
+    "index": 239,
+    "correctTextBamf": "durch die \"Römischen Verträge\"",
+    "allOptionsBamf": [
+      "durch die \"Hamburger Verträge\"",
+      "durch die \"Römischen Verträge\"",
+      "durch die \"Pariser Verträge\"",
+      "durch die \"Londoner Verträge\""
+    ],
+    "portalAufgabe": 239
+  },
+  {
+    "index": 240,
+    "correctTextBamf": "2002",
+    "allOptionsBamf": [
+      "1995",
+      "1998",
+      "2002",
+      "2005"
+    ],
+    "portalAufgabe": 240
+  },
+  {
+    "index": 241,
+    "correctTextBamf": "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+    "allOptionsBamf": [
+      "Sie muss an ihre Krankenkasse schreiben.",
+      "Sie muss einen Antrag bei der Elterngeldstelle stellen.",
+      "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld.",
+      "Sie muss das Arbeitsamt um Erlaubnis bitten."
+    ],
+    "portalAufgabe": 241
+  },
+  {
+    "index": 242,
+    "correctTextBamf": "die Eltern/die Erziehungsberechtigten",
+    "allOptionsBamf": [
+      "der Staat",
+      "die Bundesländer",
+      "die Eltern/die Erziehungsberechtigten",
+      "die Schulen"
+    ],
+    "portalAufgabe": 242
+  },
+  {
+    "index": 243,
+    "correctTextBamf": "Sie müssen die Demonstration anmelden.",
+    "allOptionsBamf": [
+      "Sie müssen die Demonstration anmelden.",
+      "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+      "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten.",
+      "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen."
+    ],
+    "portalAufgabe": 243
+  },
+  {
+    "index": 244,
+    "correctTextBamf": "das Abitur",
+    "allOptionsBamf": [
+      "das Abitur",
+      "ein Diplom",
+      "die Prokura",
+      "eine Gesellenprüfung"
+    ],
+    "portalAufgabe": 244
+  },
+  {
+    "index": 245,
+    "correctTextBamf": "Anne (13 Jahre) und Tim (25 Jahre)",
+    "allOptionsBamf": [
+      "Hans (20 Jahre) und Marie (19 Jahre)",
+      "Tom (20 Jahre) und Klaus (45 Jahre)",
+      "Sofie (35 Jahre) und Lisa (40 Jahre)",
+      "Anne (13 Jahre) und Tim (25 Jahre)"
+    ],
+    "portalAufgabe": 245
+  },
+  {
+    "index": 246,
+    "correctTextBamf": "18",
+    "allOptionsBamf": [
+      "16",
+      "18",
+      "19",
+      "21"
+    ],
+    "portalAufgabe": 246
+  },
+  {
+    "index": 247,
+    "correctTextBamf": "Mutterschutz",
+    "allOptionsBamf": [
+      "Elternzeit",
+      "Mutterschutz",
+      "Geburtsvorbereitung",
+      "Wochenbett"
+    ],
+    "portalAufgabe": 247
+  },
+  {
+    "index": 248,
+    "correctTextBamf": "der Eltern.",
+    "allOptionsBamf": [
+      "des Staates.",
+      "der Eltern.",
+      "der Großeltern.",
+      "der Schulen."
+    ],
+    "portalAufgabe": 248
+  },
+  {
+    "index": 249,
+    "correctTextBamf": "die Eltern",
+    "allOptionsBamf": [
+      "der Staat",
+      "die Eltern",
+      "die Verwandten",
+      "die Schulen"
+    ],
+    "portalAufgabe": 249
+  },
+  {
+    "index": 250,
+    "correctTextBamf": "gut ausgebildet ist.",
+    "allOptionsBamf": [
+      "katholisch ist.",
+      "gut ausgebildet ist.",
+      "eine Frau ist.",
+      "Mitglied einer Partei ist."
+    ],
+    "portalAufgabe": 250
+  },
+  {
+    "index": 251,
+    "correctTextBamf": "kann man dafür bestraft werden.",
+    "allOptionsBamf": [
+      "geht das niemanden etwas an.",
+      "geht das nur die Familie etwas an.",
+      "kann man dafür nicht bestraft werden.",
+      "kann man dafür bestraft werden."
+    ],
+    "portalAufgabe": 251
+  },
+  {
+    "index": 252,
+    "correctTextBamf": "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+    "allOptionsBamf": [
+      "darf man zur gleichen Zeit nur mit einem Partner / einer Partnerin verheiratet sein.",
+      "kann man mehrere Ehepartner / Ehepartnerinnen gleichzeitig haben.",
+      "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+      "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist."
+    ],
+    "portalAufgabe": 252
+  },
+  {
+    "index": 253,
+    "correctTextBamf": "beim Einwohnermeldeamt",
+    "allOptionsBamf": [
+      "beim Einwohnermeldeamt",
+      "beim Standesamt",
+      "beim Ordnungsamt",
+      "beim Gewerbeamt"
+    ],
+    "portalAufgabe": 253
+  },
+  {
+    "index": 254,
+    "correctTextBamf": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich",
+    "allOptionsBamf": [
+      "Der Scheidungsprozess dauert ein Jahr",
+      "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich",
+      "Das Besuchsrecht für die Kinder gilt ein Jahr",
+      "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich"
+    ],
+    "portalAufgabe": 254
+  },
+  {
+    "index": 255,
+    "correctTextBamf": "Jugendamt.",
+    "allOptionsBamf": [
+      "Ordnungsamt.",
+      "Schulamt.",
+      "Jugendamt.",
+      "Gesundheitsamt."
+    ],
+    "portalAufgabe": 255
+  },
+  {
+    "index": 256,
+    "correctTextBamf": "eine Gaststättenerlaubnis von der zuständigen Behörde",
+    "allOptionsBamf": [
+      "eine Erlaubnis der Polizei",
+      "eine Genehmigung einer Partei",
+      "eine Genehmigung des Einwohnermeldeamts",
+      "eine Gaststättenerlaubnis von der zuständigen Behörde"
+    ],
+    "portalAufgabe": 256
+  },
+  {
+    "index": 257,
+    "correctTextBamf": "einem Abendgymnasium.",
+    "allOptionsBamf": [
+      "einer Hochschule.",
+      "einem Abendgymnasium.",
+      "einer Hauptschule.",
+      "einer Privatuniversität."
+    ],
+    "portalAufgabe": 257
+  },
+  {
+    "index": 258,
+    "correctTextBamf": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+    "allOptionsBamf": [
+      "Es entscheidet, welche Schule das Kind besucht.",
+      "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+      "Es bezahlt das Kindergeld an die Eltern.",
+      "Es kontrolliert, ob das Kind einen Kindergarten besucht."
+    ],
+    "portalAufgabe": 258
+  },
+  {
+    "index": 259,
+    "correctTextBamf": "Lehrstellensuche.",
+    "allOptionsBamf": [
+      "Rentenberechnung.",
+      "Lehrstellensuche.",
+      "Steuererklärung.",
+      "Krankenversicherung."
+    ],
+    "portalAufgabe": 259
+  },
+  {
+    "index": 260,
+    "correctTextBamf": "Anwesenheitspflicht.",
+    "allOptionsBamf": [
+      "Recht auf unbegrenzte Freizeit.",
+      "Wahlfreiheit für alle Fächer.",
+      "Anspruch auf Schulgeld.",
+      "Anwesenheitspflicht."
+    ],
+    "portalAufgabe": 260
+  },
+  {
+    "index": 261,
+    "correctTextBamf": "einem Abendgymnasium",
+    "allOptionsBamf": [
+      "einer Hochschule",
+      "einem Abendgymnasium",
+      "einer Hauptschule",
+      "einer Privatuniversität"
+    ],
+    "portalAufgabe": 261
+  },
+  {
+    "index": 262,
+    "correctTextBamf": "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+    "allOptionsBamf": [
+      "Niemand darf z.B. wegen einer Behinderung benachteiligt werden.",
+      "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+      "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+      "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden."
+    ],
+    "portalAufgabe": 262
+  },
+  {
+    "index": 263,
+    "correctTextBamf": "werden bestraft.",
+    "allOptionsBamf": [
+      "werden bestraft.",
+      "werden wie Erwachsene behandelt.",
+      "teilen die Strafe mit ihren Eltern.",
+      "werden nicht bestraft."
+    ],
+    "portalAufgabe": 263
+  },
+  {
+    "index": 264,
+    "correctTextBamf": "am Rosenmontag",
+    "allOptionsBamf": [
+      "am Rosenmontag",
+      "am Maifeiertag",
+      "beim Oktoberfest",
+      "an Pfingsten"
+    ],
+    "portalAufgabe": 264
+  },
+  {
+    "index": 265,
+    "correctTextBamf": "zum Standesamt",
+    "allOptionsBamf": [
+      "zum Einwohnermeldeamt",
+      "zum Ordnungsamt",
+      "zur Agentur für Arbeit",
+      "zum Standesamt"
+    ],
+    "portalAufgabe": 265
+  },
+  {
+    "index": 266,
+    "correctTextBamf": "um 22 Uhr",
+    "allOptionsBamf": [
+      "wenn die Sonne untergeht",
+      "wenn die Nachbarn schlafen gehen",
+      "um 0 Uhr, Mitternacht",
+      "um 22 Uhr"
+    ],
+    "portalAufgabe": 266
+  },
+  {
+    "index": 267,
+    "correctTextBamf": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+    "allOptionsBamf": [
+      "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+      "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+      "Sie können zur Polizei gehen und die Tochter anzeigen.",
+      "Sie suchen einen anderen Mann für die Tochter."
+    ],
+    "portalAufgabe": 267
+  },
+  {
+    "index": 268,
+    "correctTextBamf": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+    "allOptionsBamf": [
+      "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+      "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+      "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+      "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl."
+    ],
+    "portalAufgabe": 268
+  },
+  {
+    "index": 269,
+    "correctTextBamf": "einen Kindergartenplatz.",
+    "allOptionsBamf": [
+      "monatliches Taschengeld.",
+      "einen Platz in einem Sportverein.",
+      "einen Kindergartenplatz.",
+      "einen Ferienpass."
+    ],
+    "portalAufgabe": 269
+  },
+  {
+    "index": 270,
+    "correctTextBamf": "zur Weiterbildung.",
+    "allOptionsBamf": [
+      "für den Religionsunterricht.",
+      "nur für Jugendliche.",
+      "zur Weiterbildung.",
+      "nur für Rentner und Rentnerinnen."
+    ],
+    "portalAufgabe": 270
+  },
+  {
+    "index": 271,
+    "correctTextBamf": "einen Tannenbaum schmücken",
+    "allOptionsBamf": [
+      "bunte Eier verstecken",
+      "einen Tannenbaum schmücken",
+      "sich mit Masken und Kostümen verkleiden",
+      "Kürbisse vor die Tür stellen"
+    ],
+    "portalAufgabe": 271
+  },
+  {
+    "index": 272,
+    "correctTextBamf": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet.",
+    "allOptionsBamf": [
+      "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen.",
+      "Zwei Frauen leben zusammen.",
+      "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
+      "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet."
+    ],
+    "portalAufgabe": 272
+  },
+  {
+    "index": 273,
+    "correctTextBamf": "zum Jugendamt.",
+    "allOptionsBamf": [
+      "zum Arzt / zur Ärztin.",
+      "zum Gesundheitsamt.",
+      "zum Einwohnermeldeamt.",
+      "zum Jugendamt."
+    ],
+    "portalAufgabe": 273
+  },
+  {
+    "index": 274,
+    "correctTextBamf": "das Briefgeheimnis",
+    "allOptionsBamf": [
+      "das Schweigerecht",
+      "das Briefgeheimnis",
+      "die Schweigepflicht",
+      "die Meinungsfreiheit"
+    ],
+    "portalAufgabe": 274
+  },
+  {
+    "index": 275,
+    "correctTextBamf": "die Unterstützung eines Anwalts / einer Anwältin",
+    "allOptionsBamf": [
+      "die Einwilligung der Eltern",
+      "ein Attest eines Arztes / einer Ärztin",
+      "die Einwilligung der Kinder",
+      "die Unterstützung eines Anwalts / einer Anwältin"
+    ],
+    "portalAufgabe": 275
+  },
+  {
+    "index": 276,
+    "correctTextBamf": "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren.",
+    "allOptionsBamf": [
+      "Ich kann nichts tun.",
+      "Ich muss mir diese Behandlung gefallen lassen.",
+      "Ich drohe der Person.",
+      "Ich kann mich beim Behördenleiter / bei der Behördenleiterin beschweren."
+    ],
+    "portalAufgabe": 276
+  },
+  {
+    "index": 277,
+    "correctTextBamf": "Mutter ist.",
+    "allOptionsBamf": [
+      "kein Englisch spricht.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "keine Erfahrungen in diesem Beruf hat.",
+      "Mutter ist."
+    ],
+    "portalAufgabe": 277
+  },
+  {
+    "index": 278,
+    "correctTextBamf": "im Rollstuhl sitzt.",
+    "allOptionsBamf": [
+      "im Rollstuhl sitzt.",
+      "keine Erfahrung hat.",
+      "zu hohe Gehaltsvorstellungen hat.",
+      "kein Englisch spricht."
+    ],
+    "portalAufgabe": 278
+  },
+  {
+    "index": 279,
+    "correctTextBamf": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+    "allOptionsBamf": [
+      "Regeln für die Benutzung öffentlicher Verkehrsmittel.",
+      "alle Mieter und Mieterinnen im Haus.",
+      "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+      "die Adresse des nächsten Ordnungsamtes."
+    ],
+    "portalAufgabe": 279
+  },
+  {
+    "index": 280,
+    "correctTextBamf": "Einspruch einlegen.",
+    "allOptionsBamf": [
+      "nichts machen.",
+      "den Bescheid wegwerfen.",
+      "Einspruch einlegen.",
+      "warten, bis ein anderer Bescheid kommt."
+    ],
+    "portalAufgabe": 280
+  },
+  {
+    "index": 281,
+    "correctTextBamf": "Gleichbehandlung.",
+    "allOptionsBamf": [
+      "Meinungsfreiheit.",
+      "Gleichbehandlung.",
+      "Versammlungsfreiheit.",
+      "Freizügigkeit."
+    ],
+    "portalAufgabe": 281
+  },
+  {
+    "index": 282,
+    "correctTextBamf": "Wahlhelfer / Wahlhelferin",
+    "allOptionsBamf": [
+      "Vereinstrainer / Vereinstrainerin",
+      "Wahlhelfer / Wahlhelferin",
+      "Bibliotheksaufsicht",
+      "Lehrer / Lehrerin"
+    ],
+    "portalAufgabe": 282
+  },
+  {
+    "index": 283,
+    "correctTextBamf": "Ich lege Widerspruch bei der Behörde ein.",
+    "allOptionsBamf": [
+      "Ich lasse die Rechnung liegen.",
+      "Ich lege Widerspruch bei der Behörde ein.",
+      "Ich schicke die Rechnung an die Behörde zurück.",
+      "Ich gehe mit der Rechnung zum Finanzamt."
+    ],
+    "portalAufgabe": 283
+  },
+  {
+    "index": 284,
+    "correctTextBamf": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+    "allOptionsBamf": [
+      "Es ist egal, was man lernt.",
+      "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+      "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+      "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert."
+    ],
+    "portalAufgabe": 284
+  },
+  {
+    "index": 285,
+    "correctTextBamf": "Umsatzsteuer",
+    "allOptionsBamf": [
+      "Lohnsteuer",
+      "Beiträge zur Arbeitslosenversicherung",
+      "Beiträge zur Renten- und Krankenversicherung",
+      "Umsatzsteuer"
+    ],
+    "portalAufgabe": 285
+  },
+  {
+    "index": 286,
+    "correctTextBamf": "der Betriebsrat",
+    "allOptionsBamf": [
+      "der Betriebsrat",
+      "der Betriebsprüfer / die Betriebsprüferin",
+      "die Betriebsgruppe",
+      "das Betriebsmanagement"
+    ],
+    "portalAufgabe": 286
+  },
+  {
+    "index": 287,
+    "correctTextBamf": "die Kündigungsfrist",
+    "allOptionsBamf": [
+      "die Gehaltszahlungen",
+      "die Arbeitszeit",
+      "die Kündigungsfrist",
+      "die Versícherungspflicht"
+    ],
+    "portalAufgabe": 287
+  },
+  {
+    "index": 288,
+    "correctTextBamf": "aus den nationalsozialistischen Verbrechen gegen Juden",
+    "allOptionsBamf": [
+      "aus der Mitgliedschaft in der Europäischen Union (EU)",
+      "aus den nationalsozialistischen Verbrechen gegen Juden",
+      "aus dem Grundgesetz der Bundesrepublik Deutschland",
+      "aus der christlichen Tradition"
+    ],
+    "portalAufgabe": 288
+  },
+  {
+    "index": 289,
+    "correctTextBamf": "er eine dunkle Haut hat.",
+    "allOptionsBamf": [
+      "seine Deutschkenntnisse zu gering sind.",
+      "er zu hohe Gehaltsvorstellungen hat.",
+      "er eine dunkle Haut hat.",
+      "er keine Erfahrungen im Beruf hat."
+    ],
+    "portalAufgabe": 289
+  },
+  {
+    "index": 290,
+    "correctTextBamf": "den Fernseher reklamieren",
+    "allOptionsBamf": [
+      "eine Anzeige schreiben",
+      "den Fernseher reklamieren",
+      "das Gerät ungefragt austauschen",
+      "die Garantie verlängern"
+    ],
+    "portalAufgabe": 290
+  },
+  {
+    "index": 291,
+    "correctTextBamf": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+    "allOptionsBamf": [
+      "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
+      "das für die Statistik in Deutschland wichtig ist.",
+      "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
+      "die Kirche für die Steuererklärung verantwortlich ist."
+    ],
+    "portalAufgabe": 291
+  },
+  {
+    "index": 292,
+    "correctTextBamf": "Jeder kann glauben, was er möchte.",
+    "allOptionsBamf": [
+      "Es dürfen keine Moscheen gebaut werden.",
+      "Alle Menschen glauben an Gott.",
+      "Jeder kann glauben, was er möchte.",
+      "Der Staat entscheidet, an welchen Gott die Menschen glauben."
+    ],
+    "portalAufgabe": 292
+  },
+  {
+    "index": 293,
+    "correctTextBamf": "Eier bemalen",
+    "allOptionsBamf": [
+      "Kürbisse vor die Tür stellen",
+      "einen Tannenbaum schmücken",
+      "Eier bemalen",
+      "Raketen in die Luft schießen"
+    ],
+    "portalAufgabe": 293
+  },
+  {
+    "index": 294,
+    "correctTextBamf": "christlicher Feiertag.",
+    "allOptionsBamf": [
+      "christlicher Feiertag.",
+      "deutscher Gedenktag.",
+      "internationaler Trauertag.",
+      "bayerischer Brauch."
+    ],
+    "portalAufgabe": 294
+  },
+  {
+    "index": 295,
+    "correctTextBamf": "das Christentum",
+    "allOptionsBamf": [
+      "der Hinduismus",
+      "das Christentum",
+      "der Buddhismus",
+      "der Islam"
+    ],
+    "portalAufgabe": 295
+  },
+  {
+    "index": 296,
+    "correctTextBamf": "die Adventszeit.",
+    "allOptionsBamf": [
+      "den Buß- und Bettag.",
+      "das Erntedankfest.",
+      "die Adventszeit.",
+      "Allerheiligen."
+    ],
+    "portalAufgabe": 296
+  },
+  {
+    "index": 297,
+    "correctTextBamf": "Türkei",
+    "allOptionsBamf": [
+      "Italien",
+      "Polen",
+      "Marokko",
+      "Türkei"
+    ],
+    "portalAufgabe": 297
+  },
+  {
+    "index": 298,
+    "correctTextBamf": "Vietnam, Polen, Mosambik.",
+    "allOptionsBamf": [
+      "Vietnam, Polen, Mosambik.",
+      "Frankreich, Rumänien, Somalia.",
+      "Chile, Ungarn, Simbabwe.",
+      "Nordkorea, Mexiko, Ägypten."
+    ],
+    "portalAufgabe": 298
+  },
+  {
+    "index": 299,
+    "correctTextBamf": "Gastarbeiter / Gastarbeiterinnen.",
+    "allOptionsBamf": [
+      "Schwarzarbeiter / Schwarzarbeiterinnen.",
+      "Gastarbeiter / Gastarbeiterinnen.",
+      "Zeitarbeiter /Zeitarbeiterinnen.",
+      "Schichtarbeiter / Schichtarbeiterinnen."
+    ],
+    "portalAufgabe": 299
+  },
+  {
+    "index": 300,
+    "correctTextBamf": "Italien",
+    "allOptionsBamf": [
+      "Italien",
+      "Spanien",
+      "Portugal",
+      "Türkei"
+    ],
+    "portalAufgabe": 300
+  },
+  {
+    "index": 301,
+    "correctTextBamf": "3",
+    "allOptionsBamf": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "portalAufgabe": 301
+  },
+  {
+    "index": 302,
+    "correctTextBamf": "Ammerland",
+    "allOptionsBamf": [
+      "Ammerland",
+      "Rhein-Sieg-Kreis",
+      "Nordfriesland",
+      "Vogtlandkreis"
+    ],
+    "portalAufgabe": 302
+  },
+  {
+    "index": 303,
+    "correctTextBamf": "5",
+    "allOptionsBamf": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "portalAufgabe": 303
+  },
+  {
+    "index": 304,
+    "correctTextBamf": "16",
+    "allOptionsBamf": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "portalAufgabe": 304
+  },
+  {
+    "index": 305,
+    "correctTextBamf": "schwarz-rot-gold",
+    "allOptionsBamf": [
+      "weiß-blau",
+      "schwarz-rot-gold",
+      "schwarz-gelb",
+      "blau-weiß-rot"
+    ],
+    "portalAufgabe": 305
+  },
+  {
+    "index": 306,
+    "correctTextBamf": "bei der Landeszentrale für politische Bildung",
+    "allOptionsBamf": [
+      "bei der Landeszentrale für politische Bildung",
+      "beim Ordnungsamt der Gemeinde",
+      "bei der Verbraucherzentrale",
+      "bei den Kirchen"
+    ],
+    "portalAufgabe": 306
+  },
+  {
+    "index": 307,
+    "correctTextBamf": "Hannover.",
+    "allOptionsBamf": [
+      "Hannover.",
+      "Braunschweig.",
+      "Wolfsburg.",
+      "Osnabrück."
+    ],
+    "portalAufgabe": 307
+  },
+  {
+    "index": 308,
+    "correctTextBamf": "1",
+    "allOptionsBamf": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "portalAufgabe": 308
+  },
+  {
+    "index": 309,
+    "correctTextBamf": "Ministerpräsident/ Ministerpräsidentin",
+    "allOptionsBamf": [
+      "Erster Minister/ Erste Ministerin",
+      "Premierminister/ Premierministerin",
+      "Bürgermeister/ Bürgermeisterin",
+      "Ministerpräsident/ Ministerpräsidentin"
+    ],
+    "portalAufgabe": 309
+  },
+  {
+    "index": 310,
+    "correctTextBamf": "Außenminister/ Außenministerin",
+    "allOptionsBamf": [
+      "Justizminister/ Justizministerin",
+      "Außenminister/ Außenministerin",
+      "Finanzminister/ Finanzministerin",
+      "Innenminister/ Innenministerin"
+    ],
+    "portalAufgabe": 310
+  }
+]

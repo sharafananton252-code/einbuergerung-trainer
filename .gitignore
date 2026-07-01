@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+app/node_modules/
+
+# build output
+dist/
+app/dist/
+app/.vite/
+
+# tooling / temp
+.playwright-mcp/
+scratchpad/
+*.log
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# claude code local config
+.claude/
