@@ -16,7 +16,8 @@ const EXAM_MINUTES = 60
 const LS = {
   ru: 'eb_ru',
   mistakes: 'eb_mistakes',
-  seen: 'eb_seen'
+  seen: 'eb_seen',
+  trainPos: 'eb_train_pos'   // last opened training question: { filter, idx }
 }
 const getBool = (k, d) => { const v = localStorage.getItem(k); return v === null ? d : v === '1' }
 const setBool = (k, v) => localStorage.setItem(k, v ? '1' : '0')
@@ -34,6 +35,18 @@ function removeMistake(id) { setArr(LS.mistakes, mistakes().filter(x => x !== id
 function clearMistakes() { setArr(LS.mistakes, []) }
 function markSeen(id) { const s = new Set(getArr(LS.seen)); s.add(id); setArr(LS.seen, [...s]) }
 function seenCount() { return getArr(LS.seen).length }
+
+// ---------- training resume position ----------
+const TRAIN_FILTERS = ['all', 'general', 'niedersachsen']
+function getTrainPos() {
+  try {
+    const p = JSON.parse(localStorage.getItem(LS.trainPos))
+    if (!p || !TRAIN_FILTERS.includes(p.filter) || typeof p.idx !== 'number' || p.idx < 0) return null
+    return p
+  } catch { return null }
+}
+function setTrainPos(filter, idx) { localStorage.setItem(LS.trainPos, JSON.stringify({ filter, idx })) }
+function clearTrainPos() { localStorage.removeItem(LS.trainPos) }
 
 // ---------- tiny DOM helper ----------
 function h(tag, attrs = {}, ...kids) {
@@ -103,7 +116,7 @@ function viewMenu() {
 
   const menu = h('div', { class: 'menu' })
   menu.append(
-    card('📚', 'Тренировка', 'Все 310 вопросов подряд, ответ сразу', () => viewTraining('all')),
+    card('📚', 'Тренировка', 'Все 310 вопросов подряд, ответ сразу', () => viewTrainingEntry()),
     card('📝', 'Экзамен (билет)', '33 вопроса · 60 минут · как на экзамене', () => viewExamStart()),
     card('🔁', `Работа над ошибками${mistakes().length ? ' · ' + mistakes().length : ''}`, 'Повторить вопросы с ошибками', () => viewErrors(), mistakes().length === 0)
   )
@@ -184,12 +197,45 @@ function questionCard(q, o = {}) {
 }
 
 // ================= TRAINING =================
+// Entry from the menu: offer "continue" if a saved position exists, else start at #1.
+function viewTrainingEntry() {
+  clearActiveTimer()
+  const pos = getTrainPos()
+  if (pos && pos.idx > 0) { viewTrainingResume(pos); return }
+  viewTraining(pos ? pos.filter : 'all', pos ? pos.idx : 0)
+}
+
+const FILTER_LABEL = { all: 'Все', general: 'Общие', niedersachsen: 'Земля' }
+
+function viewTrainingResume(pos) {
+  clearActiveTimer()
+  rerender = () => viewTrainingResume(pos)
+  const main = h('main', {})
+
+  main.append(h('div', { class: 'hero' },
+    h('h2', {}, 'Продолжить тренировку?'),
+    h('p', {}, `Вы остановились на вопросе №${pos.idx + 1} · фильтр «${FILTER_LABEL[pos.filter]}»`)))
+
+  const menu = h('div', { class: 'menu' })
+  menu.append(
+    card('▶️', `Продолжить с вопроса №${pos.idx + 1}`, `Фильтр: ${FILTER_LABEL[pos.filter]}`,
+      () => viewTraining(pos.filter, pos.idx)),
+    card('🔄', 'Начать сначала', 'С первого вопроса (сбросит сохранённую позицию)',
+      () => { clearTrainPos(); viewTraining('all', 0) })
+  )
+  main.append(menu)
+
+  mount(topbar('Тренировка', viewMenu), main)
+  window.scrollTo(0, 0)
+}
+
 function viewTraining(filter, idx = 0, answers = new Map()) {
   clearActiveTimer()
   const pool = state.questions.filter(q =>
     filter === 'all' ? true : filter === 'general' ? q.scope === 'general' : q.scope === 'niedersachsen')
   if (idx < 0) idx = 0
   if (idx >= pool.length) idx = pool.length - 1
+  setTrainPos(filter, idx)   // remember last opened question (per filter) for "continue"
   rerender = () => viewTraining(filter, idx, answers)
 
   const q = pool[idx]
